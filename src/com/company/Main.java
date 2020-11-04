@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         AhoCorasick ahoCorasick = new AhoCorasick();
-        int choice = 1;
+        int choice;
         int numberOfWords = 0;
         do {
             Scanner scan = new Scanner(System.in);
