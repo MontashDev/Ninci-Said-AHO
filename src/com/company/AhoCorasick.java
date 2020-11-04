@@ -4,7 +4,7 @@ public class AhoCorasick {
 
     //create a table of nodes and a a count for the nodes
     State[] states;
-    int nodeCount;
+    int stateCount;
 
     //initialize the structure and her root
     public AhoCorasick() {
@@ -14,18 +14,18 @@ public class AhoCorasick {
         states[0] = new State();
         states[0].suffix = 0;
         states[0].father = -1;
-        nodeCount = 1;
+        stateCount = 1;
     }
 
     //create the automata according to the string(s) entered
     public void createAutomata(int c, int current, char cara){
         //if the current node don't have any children, create him one, link his father and increment variables
         if (states[current].children[c] == -1) {
-            states[nodeCount] = new State();
-            states[nodeCount].father = current;
-            states[nodeCount].fatherChar = cara;
-            states[current].children[c] = nodeCount;
-            nodeCount++;
+            states[stateCount] = new State();
+            states[stateCount].father = current;
+            states[stateCount].fatherChar = cara;
+            states[current].children[c] = stateCount;
+            stateCount++;
         }
     }
 
