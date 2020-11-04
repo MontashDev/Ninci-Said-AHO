@@ -22,7 +22,7 @@ public class AhoCorasick {
         if (nodes[current].children[c] == -1) {
             nodes[nodeCount] = new Node();
             nodes[nodeCount].father = current;
-            nodes[nodeCount].parentChar = cara;
+            nodes[nodeCount].fatherChar = cara;
             nodes[current].children[c] = nodeCount++;
         }
     }
@@ -49,7 +49,7 @@ public class AhoCorasick {
 
         Node node = nodes[nodeIndex]; //create a new node to compare the value and return the suffix
         if (node.suffix == -1)
-            node.suffix = node.father == 0 ? 0 : findTransition(findSuffix(node.father), node.parentChar);
+            node.suffix = node.father == 0 ? 0 : findTransition(findSuffix(node.father), node.fatherChar);
         return node.suffix;
     }
 

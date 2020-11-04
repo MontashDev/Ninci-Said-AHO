@@ -7,7 +7,7 @@ public class Node {
     static final int ALPHABET_SIZE = 26;
 
     int father;
-    char parentChar;
+    char fatherChar;
     boolean isLeaf; //final automata state
     int suffix = -1;
 
