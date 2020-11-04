@@ -21,9 +21,11 @@ public class Main {
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
 
-            TextReader text = new TextReader(enteredWord);
-            text.printText(text.readFile("C:\\Users\\thoma\\IdeaProjects\\NINCI-SAID-AhoCorasick\\src\\com\\company"));
         }while(choice == 1);
+
+        String str = null;
+        TextReader text = new TextReader(null);
+        text.printText(text.readFile("C:\\Users\\thoma\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt"));
 
         String s = "tabcbc"; //fichier doc
 
