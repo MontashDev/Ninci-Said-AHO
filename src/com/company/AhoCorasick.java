@@ -30,7 +30,7 @@ public class AhoCorasick {
     }
 
     //add a string to search in the text
-    public void addString(String s) {
+    public void searchString(String s) {
 
         int current = 0;
         //for each letter of the word

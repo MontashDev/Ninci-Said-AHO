@@ -14,7 +14,7 @@ public class Main {
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter a word to search : ");
             String enteredWord = scan.nextLine();
-            ahoCorasick.addString(enteredWord);
+            ahoCorasick.searchString(enteredWord);
             numberOfWords++;
 
             Scanner choix = new Scanner(System.in);
