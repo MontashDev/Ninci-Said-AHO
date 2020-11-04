@@ -34,7 +34,7 @@ public class Main {
 
         for (int i = 0; i < s.length(); i++) { //s.length sera la longueur du fichier
             node = ahoCorasick.findTransition(node, s.charAt(i));
-            if (ahoCorasick.nodes[node].isLeaf)
+            if (ahoCorasick.states[node].isLeaf)
                 positions.add(i);  //autre système à mettre en place
         }
         System.out.println(positions);

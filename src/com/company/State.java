@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Arrays;
 
-public class Node {
+public class State {
 
     static final int ALPHABET_SIZE = 26;
 
