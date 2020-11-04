@@ -33,10 +33,8 @@ public class TextReader {
     }
 
     public void printText(List<String> records){
-        int i= 1;
         for(String word : records) {
-            System.out.println(i+" "+word);
-            i++;
+            System.out.println(word);
         }
     }
 
