@@ -1,6 +1,7 @@
 package com.company;
 
 public class AhoCorasick {
+
     //create a table of nodes and a a count for the nodes
     Node[] nodes;
     int nodeCount;
@@ -23,7 +24,8 @@ public class AhoCorasick {
             nodes[nodeCount] = new Node();
             nodes[nodeCount].father = current;
             nodes[nodeCount].fatherChar = cara;
-            nodes[current].children[c] = nodeCount++;
+            nodes[current].children[c] = nodeCount;
+            nodeCount++;
         }
     }
 
