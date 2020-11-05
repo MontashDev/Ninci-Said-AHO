@@ -15,7 +15,7 @@ public class TextReader {
     }
 
 
-    //fonction de test la lecture du fichier dans le terminal Intellij
+    //test if the file is read
     public List<String> readFile(String filepath){
 
         List<String> records = new ArrayList();
@@ -36,14 +36,14 @@ public class TextReader {
         }
     }
 
-    //fonction de test d'affichage du contenue du ficher dans le terminal Intellij
+    //display the file's text in the terminal
     public void printText(List<String> records){
         for(String word : records) {
             System.out.println(word);
         }
     }
 
-    //fonction de lecture du contenue du fichier pour l'interface graphique swing
+    //reads file text for Swing
     static void readin(String fn, JTextComponent pane) {
         try {
             FileReader fr = new FileReader(fn);
@@ -55,7 +55,7 @@ public class TextReader {
         }
     }
 
-    //fonction de test du nombre d'occurence du mot recherché dans le fichier
+    //Test number of occurence of string search
     public void occurence (String search, List<String> records){
         int count=0;
         String[] words;

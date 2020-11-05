@@ -29,7 +29,7 @@ public class Main {
         do {
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter a word to search : ");
-            String enteredWord = scan.nextLine().toLowerCase().trim(); //Abstraction des majuscules afin de compter les occurences du mot
+            String enteredWord = scan.nextLine().toLowerCase().trim(); //Make abstraction of CAPS in order to count occurences
             ahoCorasick.searchString(enteredWord);
             numberOfWords++;
             Scanner choix = new Scanner(System.in);
@@ -49,16 +49,16 @@ public class Main {
         });
 
 
-        // Creation de la zone d'afffichage du texte pour l'interface graphique
+        // Set Swing Interface
 
         final JTextComponent textpane = new JTextArea();
 
-        // Creation de la barre defilante pour le texte
+        // set scroll bar
 
         final JScrollPane pane = new JScrollPane(textpane);
         pane.setPreferredSize(new Dimension(600, 600));
 
-        // creation selecteur fichier
+        // set file chooser
 
         String cwd = System.getProperty("user.dir");
         final JFileChooser jfc = new JFileChooser(cwd);
