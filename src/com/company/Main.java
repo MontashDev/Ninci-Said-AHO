@@ -22,7 +22,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         AhoCorasick ahoCorasick = new AhoCorasick();
         int choice;
-        int numberOfWords = 0;
         Path filepath = Paths.get("C:\\Users\\thoma\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt");
         Stream<String> lines = Files.lines(filepath);
         List<String> replaced;
@@ -32,7 +31,7 @@ public class Main {
             System.out.print("Enter a word to search : ");
             String enteredWord = scan.nextLine().toLowerCase().trim(); //Abstraction des majuscules afin de compter les occurences du mot
             ahoCorasick.searchString(enteredWord);
-            numberOfWords++;
+
             Scanner choix = new Scanner(System.in);
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
@@ -57,16 +56,13 @@ public class Main {
 
 
         // Creation de la zone d'affichage du texte pour l'interface graphique
-
         final JTextComponent textpane = new JTextArea();
 
         // Creation de la barre defilante pour le texte
-
         final JScrollPane pane = new JScrollPane(textpane);
         pane.setPreferredSize(new Dimension(600, 600));
 
         // creation selecteur fichier
-
         String cwd = System.getProperty("user.dir");
         final JFileChooser jfc = new JFileChooser(cwd);
 
@@ -81,7 +77,6 @@ public class Main {
             frame.setCursor(Cursor.getPredefinedCursor(
                     Cursor.WAIT_CURSOR));
             TextReader.readin(f.toString(), textpane);
-
         });
 
         JPanel buttonpanel = new JPanel();
