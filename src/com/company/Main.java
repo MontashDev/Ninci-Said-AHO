@@ -24,9 +24,8 @@ public class Main {
         int choice;
         int numberOfWords = 0;
         Path filepath = Paths.get("C:\\Users\\HP\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt");
-        Stream<String> lines= Files.lines(filepath);
         List<String> replaced;
-
+        int node = 0;
         do {
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter a word to search : ");
@@ -36,14 +35,10 @@ public class Main {
             Scanner choix = new Scanner(System.in);
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
+            Stream<String> lines= Files.lines(filepath);
             replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList()); //ajout de "@" avant et apre le mot recherché
             Files.write(filepath, replaced);
             lines.close();
-            if(choice!=2) { //boucle qui rajoute "@" avant et apres le mot cherché, si plusieurs mot sont cherchés alors ajout au fur et a mesure des "@"
-                replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList());
-                Files.write(filepath, replaced);
-                lines.close();
-            }
         }while(choice != 2);
 
         final JFrame frame = new JFrame("File Display");
