@@ -32,6 +32,8 @@ public class Main {
             String enteredWord = scan.nextLine().toLowerCase().trim(); //Make abstraction of CAPS in order to count occurences
             ahoCorasick.searchString(enteredWord);
             numberOfWords++;
+            TextReader text = new TextReader(enteredWord);
+            text.occurence(enteredWord,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
             Scanner choix = new Scanner(System.in);
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
@@ -39,6 +41,8 @@ public class Main {
             replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList()); //ajout de "@" avant et apre le mot recherché
             Files.write(filepath, replaced);
             lines.close();
+            text = new TextReader(enteredWord);
+            text.occurence(enteredWord,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
         }while(choice != 2);
 
         final JFrame frame = new JFrame("File Display");
@@ -102,7 +106,7 @@ public class Main {
         }
         System.out.println(positions);
 
-        /*Scanner saisieUtilisateur = new Scanner(System.in);
+        Scanner saisieUtilisateur = new Scanner(System.in);
         System.out.println("Enter word : ");
         String str = saisieUtilisateur.next();
         TextReader text = new TextReader(str);
