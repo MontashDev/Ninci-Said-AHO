@@ -23,8 +23,8 @@ public class Main {
         AhoCorasick ahoCorasick = new AhoCorasick();
         int choice;
         int numberOfWords = 0;
-        Path filepath = Paths.get("C:\\Users\\HP\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt");
-        Stream<String> lines= Files.lines(filepath);
+        Path filepath = Paths.get("C:\\Users\\thoma\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt");
+        Stream<String> lines = Files.lines(filepath);
         List<String> replaced;
 
         do {
@@ -36,15 +36,17 @@ public class Main {
             Scanner choix = new Scanner(System.in);
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
-            replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList()); //ajout de "@" avant et apre le mot recherché
+
+            replaced = lines.map(line -> line.replaceAll(enteredWord, "[WORD]" + enteredWord + "[DETECTED]")).collect(Collectors.toList()); //ajout de "@" avant et apre le mot recherché
             Files.write(filepath, replaced);
             lines.close();
-            if(choice!=2) { //boucle qui rajoute "@" avant et apres le mot cherché, si plusieurs mot sont cherchés alors ajout au fur et a mesure des "@"
-                replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList());
+
+            if (choice != 2) { //boucle qui rajoute "@" avant et apres le mot cherché, si plusieurs mot sont cherchés alors ajout au fur et a mesure des "@"
+                replaced = lines.map(line -> line.replaceAll(enteredWord, "[WORD]" + enteredWord + "[DETECTED]")).collect(Collectors.toList());
                 Files.write(filepath, replaced);
                 lines.close();
             }
-        }while(choice != 2);
+        } while (choice != 2);
 
         final JFrame frame = new JFrame("File Display");
         frame.addWindowListener(new WindowAdapter() {
@@ -54,7 +56,7 @@ public class Main {
         });
 
 
-        // Creation de la zone d'afffichage du texte pour l'interface graphique
+        // Creation de la zone d'affichage du texte pour l'interface graphique
 
         final JTextComponent textpane = new JTextArea();
 
@@ -94,8 +96,6 @@ public class Main {
         frame.pack();
         frame.setVisible(true);
 
-
-
         /*
         int node = 0;
         List<Integer> positions = new ArrayList<>();
@@ -107,12 +107,6 @@ public class Main {
         }
         System.out.println(positions);
 
-        /*Scanner saisieUtilisateur = new Scanner(System.in);
-        System.out.println("Enter word : ");
-        String str = saisieUtilisateur.next();
-        TextReader text = new TextReader(str);
-        text.printText(text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
-        text.occurence(str,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
-        */
+         */
     }
 }
