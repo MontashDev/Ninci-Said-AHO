@@ -1,7 +1,9 @@
 package com.company;
 
+import javax.swing.text.JTextComponent;
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,6 +14,8 @@ public class TextReader {
         this.word=word;
     }
 
+
+    //fonction de test la lecture du fichier dans le terminal Intellij
     public List<String> readFile(String filepath){
 
         List<String> records = new ArrayList();
@@ -32,12 +36,26 @@ public class TextReader {
         }
     }
 
+    //fonction de test d'affichage du contenue du ficher dans le terminal Intellij
     public void printText(List<String> records){
         for(String word : records) {
             System.out.println(word);
         }
     }
 
+    //fonction de lecture du contenue du fichier pour l'interface graphique swing
+    static void readin(String fn, JTextComponent pane) {
+        try {
+            FileReader fr = new FileReader(fn);
+            pane.read(fr, null);
+            fr.close();
+        }
+        catch (IOException e) {
+            System.err.println(e);
+        }
+    }
+
+    //fonction de test du nombre d'occurence du mot recherché dans le fichier
     public void occurence (String search, List<String> records){
         int count=0;
         String[] words;
