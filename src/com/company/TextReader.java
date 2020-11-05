@@ -37,14 +37,15 @@ public class TextReader {
     }
 
     //display the file's text in the terminal
-    public void printText(List<String> records){
+    /*public void printText(List<String> records){
         for(String word : records) {
             System.out.println(word);
         }
-    }
+    }*/
 
     //reads file text for Swing
     static void readin(String fn, JTextComponent pane) {
+
         try {
             FileReader fr = new FileReader(fn);
             pane.read(fr, null);
@@ -57,10 +58,11 @@ public class TextReader {
 
     //Test number of occurence of string search
     public void occurence (String search, List<String> records){
+
         int count=0;
         String[] words;
         for(String searchword: records) {
-            words=searchword.split(" ");
+            words = searchword.split(" ");
             for(String find: words) {
                 if (find.equals(search))
                     count++;

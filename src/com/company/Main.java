@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
@@ -20,29 +19,31 @@ import java.util.stream.Stream;
 public class Main {
 
     public static void main(String[] args) throws IOException {
+
         AhoCorasick ahoCorasick = new AhoCorasick();
         int choice;
-        int numberOfWords = 0;
-        Path filepath = Paths.get("C:\\Users\\HP\\IdeaProjects\\Ninci-Said-AHO\\src\\com\\company\\TexteCyrano.txt");
+
+        String path = "C:\\Users\\thoma\\IdeaProjects\\Ninci-Said-AHO2\\TexteCyrano.txt";
+        Path filepath = Paths.get(path);
         List<String> replaced;
-        int node = 0;
+
         do {
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter a word to search : ");
             String enteredWord = scan.nextLine().toLowerCase().trim(); //Make abstraction of CAPS in order to count occurences
             ahoCorasick.searchString(enteredWord);
-            numberOfWords++;
+
             TextReader text = new TextReader(enteredWord);
-            text.occurence(enteredWord,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
+            text.occurence(enteredWord,text.readFile(path));
             Scanner choix = new Scanner(System.in);
             System.out.println("Do you want to enter another word ? :  1 -> yes  2 -> no");
             choice = choix.nextInt();
+
             Stream<String> lines= Files.lines(filepath);
-            replaced = lines.map(line -> line.replaceAll(enteredWord, "@"+enteredWord+"@")).collect(Collectors.toList()); //ajout de "@" avant et apre le mot recherché
+            replaced = lines.map(line -> line.replaceAll(enteredWord, "[WORD]"+enteredWord+"[DETECTED]")).collect(Collectors.toList()); //add balise around the word
             Files.write(filepath, replaced);
             lines.close();
-            text = new TextReader(enteredWord);
-            text.occurence(enteredWord,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
+
         }while(choice != 2);
 
         final JFrame frame = new JFrame("File Display");
@@ -52,18 +53,14 @@ public class Main {
             }
         });
 
-
         // Set Swing Interface
-
         final JTextComponent textpane = new JTextArea();
 
         // set scroll bar
-
         final JScrollPane pane = new JScrollPane(textpane);
         pane.setPreferredSize(new Dimension(600, 600));
 
         // set file chooser
-
         String cwd = System.getProperty("user.dir");
         final JFileChooser jfc = new JFileChooser(cwd);
 
@@ -74,11 +71,10 @@ public class Main {
                 return;
             File f = jfc.getSelectedFile();
 
-            // Lecture du fichier
+            // read of the file
             frame.setCursor(Cursor.getPredefinedCursor(
                     Cursor.WAIT_CURSOR));
             TextReader.readin(f.toString(), textpane);
-
         });
 
         JPanel buttonpanel = new JPanel();
@@ -93,25 +89,20 @@ public class Main {
         frame.pack();
         frame.setVisible(true);
 
+        //String s = "test";
+        //findPositions(ahoCorasick, s);
+    }
 
+    /*public static void findPositions(AhoCorasick ahoCorasick, String s){
 
-        /*
         int node = 0;
         List<Integer> positions = new ArrayList<>();
 
-        for (int i = 0; i < s.length(); i++) { //s.length sera la longueur du fichier
+        for (int i = 0; i < s.length(); i++) {
             node = ahoCorasick.findTransition(node, s.charAt(i));
             if (ahoCorasick.states[node].isLeaf)
-                positions.add(i);  //autre système à mettre en place
+                positions.add(i);
         }
         System.out.println(positions);
-
-        Scanner saisieUtilisateur = new Scanner(System.in);
-        System.out.println("Enter word : ");
-        String str = saisieUtilisateur.next();
-        TextReader text = new TextReader(str);
-        text.printText(text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
-        text.occurence(str,text.readFile("C:\\Users\\HP\\Downloads\\TexteCyrano.txt"));
-        */
-    }
+    }*/
 }
