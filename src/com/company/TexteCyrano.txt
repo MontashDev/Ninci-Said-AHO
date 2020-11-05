@@ -1,4 +1,4 @@
-﻿The Pro@@je@@ct Gutenberg EBook of Cyrano de Bergerac, by Edmond Rostand
+﻿The Pro@je@ct Gutenberg EBook of Cyrano de Bergerac, by Edmond Rostand
 
 
 
@@ -6,7 +6,7 @@ This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
 
-re-use it under the terms of the Pro@@je@@ct Gutenberg License included
+re-use it under the terms of the Pro@je@ct Gutenberg License included
 CYRANO DE BERGERAC
 
 
@@ -27,13 +27,13 @@ le 28 décembre 1897
 
 
 
-  C'est à l'âme de CYRANO que @@je@@ voulais dédier ce poème.
+  C'est à l'âme de CYRANO que @je@ voulais dédier ce poème.
 
 
 
   Mais puisqu'elle a passé en vous, COQUELIN, c'est à vous
 
-que @@je@@ le dédie.
+que @je@ le dédie.
 
 
 
@@ -171,7 +171,7 @@ Une Représentation à l'Hôtel de Bourgogne.
 
 
 
-La salle de l'Hôtel de Bourgogne, en 1640. Sorte de hangar de @@je@@u de
+La salle de l'Hôtel de Bourgogne, en 1640. Sorte de hangar de @je@u de
 
 paume aménagé et embelli pour des représentations.
 
@@ -247,7 +247,7 @@ distributrice, les violons, etc.
 
 
 
-(On entend derrière la porte un @@@@@@tu@@@@@@multe de voix, puis un cavalier
+(On entend derrière la porte un @@@tu@@@multe de voix, puis un cavalier
 
 entre brusquement.)
 
@@ -325,7 +325,7 @@ UN AUTRE (déjà arrivé):
 
 
 
-LE PREMIER (@lui@ montrant des @@je@@ux qu'il sort de son pourpoint):
+LE PREMIER (@lui@ montrant des @je@ux qu'il sort de son pourpoint):
 
   Cartes. Dés.
 
@@ -335,7 +335,7 @@ LE PREMIER (@lui@ montrant des @@je@@ux qu'il sort de son pourpoint):
 
 
 
-LE DEUXIÈME (même @@je@@u):
+LE DEUXIÈME (même @je@u):
 
   Oui, mon coquin.
 
@@ -477,7 +477,7 @@ PREMIER PAGE (avec une dignité blessée):
 
   (Vivement au deuxième, dès que le portier a tourné le dos):
 
-  As-@@@@@@tu@@@@@@ de la ficelle ?
+  As-@@@tu@@@ de la ficelle ?
 
 
 
@@ -495,7 +495,7 @@ PREMIER PAGE:
 
 UN TIRE-LAINE (groupant autour de @lui@ plusieurs hommes de mauvaise mine):
 
-  Or çà, @@je@@unes escrocs, venez qu'on vous éduque:
+  Or çà, @je@unes escrocs, venez qu'on vous éduque:
 
   Puis donc que vous volez pour la première fois. . .
 
@@ -671,7 +671,7 @@ LA SALLE (saluant l'entrée de l'allumeur):
 
   Christian de Neuvillette. Lignière, un peu débraillé, figure d'ivrogne
 
-  distingué. Christian, vê@@@@@@tu@@@@@@ élégamment, mais d'une façon un peu
+  distingué. Christian, vê@@@tu@@@ élégamment, mais d'une façon un peu
 
   démodée, paraît préoccupé et regarde les loges.)
 
@@ -759,7 +759,7 @@ LIGNIÈRE (à Cuigy):
 
 CHRISTIAN:
 
-  Oui, @@je@@ suis à Paris depuis vingt jours à peine.
+  Oui, @je@ suis à Paris depuis vingt jours à peine.
 
   J'entre aux gardes demain, dans les Cadets.
 
@@ -877,7 +877,7 @@ DEUXIÈME MARQUIS (se pâmant):
 
   Ah ! Dieu ! leurs surnoms sont exquis !
 
-  Marquis, @@@@@@tu@@@@@@ les sais tous ?
+  Marquis, @@@tu@@@ les sais tous ?
 
 
 
@@ -889,7 +889,7 @@ PREMIER MARQUIS:
 
 LIGNIÈRE (prenant Christian à part):
 
-  Mon cher, @@je@@ suis entré pour vous rendre service:
+  Mon cher, @je@ suis entré pour vous rendre service:
 
   La dame ne vient pas. Je retourne à mon vice !
 
@@ -899,7 +899,7 @@ CHRISTIAN (suppliant):
 
   Non !. . .Vous, qui chansonnez et la ville et la cour,
 
-  Restez: vous me direz pour qui @@je@@ meurs d'amour.
+  Restez: vous me direz pour qui @je@ meurs d'amour.
 
 
 
@@ -923,7 +923,7 @@ CHRISTIAN:
 
   J'ai peur qu'elle ne soit coquette et raffinée,
 
-  Je n'ose @lui@ parler car @@je@@ n'ai pas d'esprit.
+  Je n'ose @lui@ parler car @je@ n'ai pas d'esprit.
 
   Le langage aujourd'hui qu'on parle et qu'on écrit,
 
@@ -1007,7 +1007,7 @@ LIGNIÈRE (à Christian):
 
 
 
-RAGUENEAU (cos@@@@@@tu@@@@@@me de pâtissier endimanché, s'avançant vivement vers
+RAGUENEAU (cos@@@tu@@@me de pâtissier endimanché, s'avançant vivement vers
 
   Lignière):
 
@@ -1179,7 +1179,7 @@ RAGUENEAU:
 
   Oh ! oh !
 
-  Moi, @@je@@ suis venu voir !
+  Moi, @je@ suis venu voir !
 
 
 
@@ -1223,7 +1223,7 @@ CUIGY:
 
 LE BRET:
 
-  Oui, @@je@@ suis inquiet !. . .
+  Oui, @je@ suis inquiet !. . .
 
 
 
@@ -1271,13 +1271,13 @@ LIGNIÈRE:
 
 RAGENEAU:
 
-  Certes, @@je@@ ne crois pas que jamais nous le peigne
+  Certes, @je@ ne crois pas que jamais nous le peigne
 
   Le solennel monsieur Philippe de Champaigne;
 
   Mais bizarre, excessif, extravagant, falot,
 
-  Il eût fourni, @@je@@ pense, à feu Jacques Callot
+  Il eût fourni, @je@ pense, à feu Jacques Callot
 
   Le plus fol spadassin à mettre entre ses masques:
 
@@ -1441,7 +1441,7 @@ LIGNIÈRE (qui commence à être gris, clignant de l'œil):
 
   --La fin était méchante. . .Écoutez. . .
 
-  (Il se lève en ti@@@@@@tu@@@@@@bant, le verre haut, prêt a chanter.)
+  (Il se lève en ti@@@tu@@@bant, le verre haut, prêt a chanter.)
 
 
 
@@ -1467,7 +1467,7 @@ LIGNIÈRE:
 
   Prenez garde:
 
-  C'est @lui@ qui vous @@@@@@tu@@@@@@era !
+  C'est @lui@ qui vous @@@tu@@@era !
 
   (Lui désignant du coin de l'œil Roxane):
 
@@ -1513,7 +1513,7 @@ RAGUENEAU (incrédule):
 
 LE BRET:
 
-  Ah ! @@je@@ veux espérer qu'il n'a pas vu l'affiche !
+  Ah ! @je@ veux espérer qu'il n'a pas vu l'affiche !
 
 
 
@@ -1605,7 +1605,7 @@ CHRISTIAN (qui les écoute et les observe, tressaille en entendant ce nom):
 
   Le vicomte !
 
-  Ah ! @@je@@ vais @lui@ @@je@@ter à la face mon. . .
+  Ah ! @je@ vais @lui@ @je@ter à la face mon. . .
 
   (Il met la main dans sa poche, et y rencontre celle d'un tire-laine en
 
@@ -1717,7 +1717,7 @@ LE TIRE-LAINE:
 
   Allez courir tous les cabarets: le Pressoir
 
-  D'Or, la Pomme de Pin, la Cein@@@@@@tu@@@@@@re qui craque,
+  D'Or, la Pomme de Pin, la Cein@@@tu@@@re qui craque,
 
   Les Deux Torches, les Trois Entonnoirs,--et dans chaque,
 
@@ -1727,7 +1727,7 @@ LE TIRE-LAINE:
 
 CHRISTIAN:
 
-  Oui, @@je@@ cours ! Ah ! les gueux ! Contre un seul homme, cent !
+  Oui, @je@ cours ! Ah ! les gueux ! Contre un seul homme, cent !
 
   (Regardant Roxane avec amour):
 
@@ -1735,7 +1735,7 @@ CHRISTIAN:
 
   (Avec fureur, Valvert):
 
-  Et @lui@ !. . .--Mais il faut que @@je@@ sauve
+  Et @lui@ !. . .--Mais il faut que @je@ sauve
 
   Lignière !. . .
 
@@ -1879,7 +1879,7 @@ LE BRET:
 
   (On entend un air de musette, et Montfleury paraît en scène, énorme,
 
-  dans un cos@@@@@@tu@@@@@@me de berger de pastorale, un chapeau garni de roses
+  dans un cos@@@tu@@@me de berger de pastorale, un chapeau garni de roses
 
   penché sur l'oreille, et soufflant dans une cornemuse enrubannée.)
 
@@ -1903,9 +1903,9 @@ MONTFLEURY (après avoir salué, jouant le rôle de Phédon):
 
 UNE VOIX (au milieu du parterre):
 
-  Coquin, ne t'ai-@@je@@ pas interdit pour un mois ?
+  Coquin, ne t'ai-@je@ pas interdit pour un mois ?
 
-  (S@@@@@@tu@@@@@@peur. Tout le monde se retourne. Murmures.)
+  (S@@@tu@@@peur. Tout le monde se retourne. Murmures.)
 
 
 
@@ -1971,7 +1971,7 @@ LA VOIX (plus menaçante):
 
   Eh bien !
 
-  Faudra-t-il que @@je@@ fasse, ô Monarque des drôles,
+  Faudra-t-il que @je@ fasse, ô Monarque des drôles,
 
   Une plantation de bois sur vos épaules ?
 
@@ -2009,7 +2009,7 @@ CYRANO (surgissant du parterre, debout sur une chaise, les bras croisés,
 
   son feutre en bataille, la moustache hérissée, le nez terrible):
 
-  Ah ! @@je@@ vais me fâcher !. . .
+  Ah ! @je@ vais me fâcher !. . .
 
   (Sensation à sa vue.)
 
@@ -2045,7 +2045,7 @@ UN MARQUIS (nonchalamment):
 
 CYRANO:
 
-  Gros homme, si @@@@@@tu@@@@@@ joues
+  Gros homme, si @@@tu@@@ joues
 
   Je vais être obligé de te fesser les joues !
 
@@ -2061,7 +2061,7 @@ CYRANO:
 
   Que les marquis se taisent sur leurs bancs,
 
-  Ou bien @@je@@ fais tâter ma canne à leurs rubans !
+  Ou bien @je@ fais tâter ma canne à leurs rubans !
 
 
 
@@ -2075,7 +2075,7 @@ CYRANO:
 
   Que Montfleury s'en aille,
 
-  Ou bien @@je@@ l'essorille et le désentripaille !
+  Ou bien @je@ l'essorille et le désentripaille !
 
 
 
@@ -2103,7 +2103,7 @@ CYRANO:
 
   (Avec le geste de retrousser ses manches):
 
-  Bon ! @@je@@ vais sur la scène en guise de buffet,
+  Bon ! @je@ vais sur la scène en guise de buffet,
 
   Découper cette mortadelle d'Italie !
 
@@ -2267,7 +2267,7 @@ CYRANO:
 
   Et j'adresse un défi collectif au parterre !
 
-  --J'inscris les noms !--Approchez-vous, @@je@@unes héros !
+  --J'inscris les noms !--Approchez-vous, @je@unes héros !
 
   Chacun son tour ! Je vais donner des numéros !--
 
@@ -2287,7 +2287,7 @@ CYRANO:
 
   (Se retournant vers la scène où Montfleury attend avec angoisse):
 
-  Donc, @@je@@ désire voir le théâtre guéri
+  Donc, @je@ désire voir le théâtre guéri
 
   De cette fluxion. Sinon. . .
 
@@ -2537,7 +2537,7 @@ CYRANO (tournant sa chaise vers la scène):
 
   Vous avez dit la seule intelligente chose !
 
-  Au manteau de Thespis @@je@@ ne fais pas de trous:
+  Au manteau de Thespis @je@ ne fais pas de trous:
 
   (Il se lève, et lançant un sac sur la scène):
 
@@ -2553,7 +2553,7 @@ LA SALLE (éblouie):
 
 JODELET (ramassant prestement la bourse et la soupesant):
 
-  A ce prix-là, monsieur, @@je@@ t'autorise
+  A ce prix-là, monsieur, @je@ t'autorise
 
   A venir chaque jour empêcher la Clorise !. . .
 
@@ -2635,7 +2635,7 @@ LE FÂCHEUX:
 
 CYRANO (agacé):
 
-  Non, ai-@@je@@ dit deux fois. Faut-il donc que @@je@@ trisse ?
+  Non, ai-@je@ dit deux fois. Faut-il donc que @je@ trisse ?
 
   Non, pas de protecteur. . .
 
@@ -2671,7 +2671,7 @@ CYRANO:
 
   (Montrant son épée):
 
-  quand @@je@@ @lui@ mets cette rallonge !
+  quand @je@ @lui@ mets cette rallonge !
 
 
 
@@ -2737,7 +2737,7 @@ CYRANO:
 
 
 
-LE FÂCHEUX (même @@je@@u):
+LE FÂCHEUX (même @je@u):
 
   Je n'ai pas. . .
 
@@ -2877,13 +2877,13 @@ CYRANO:
 
   --Vil camus, sot camard, tête plate, apprenez
 
-  Que @@je@@ m'enorgueillis d'un pareil appendice,
+  Que @je@ m'enorgueillis d'un pareil appendice,
 
   Attendu qu'un grand nez est proprement l'indice
 
-  D'un homme affable, bon, courtois, spiri@@@@@@tu@@@@@@el,
+  D'un homme affable, bon, courtois, spiri@@@tu@@@el,
 
-  Libéral, courageux, tel que @@je@@ suis, et tel
+  Libéral, courageux, tel que @je@ suis, et tel
 
   Qu'il vous est interdit à jamais de vous croire,
 
@@ -2909,7 +2909,7 @@ CYRANO:
 
   De lyrisme, de pittoresque, d'étincelle,
 
-  De somp@@@@@@tu@@@@@@osité, de Nez enfin, que celle. . .
+  De somp@@@tu@@@osité, de Nez enfin, que celle. . .
 
   (Il se retourne par les épaules, joignant le geste à la parole):
 
@@ -2981,7 +2981,7 @@ LE VICOMTE (riant):
 
 
 
-CYRANO (imper@@@@@@tu@@@@@@rbable):
+CYRANO (imper@@@tu@@@rbable):
 
   C'est tout ?. . .
 
@@ -2995,7 +2995,7 @@ LE VICOMTE:
 
 CYRANO:
 
-  Ah ! non ! c'est un peu court, @@je@@une homme !
+  Ah ! non ! c'est un peu court, @je@une homme !
 
   On pouvait dire. . .Oh ! Dieu !. . .bien des choses en somme. . .
 
@@ -3003,7 +3003,7 @@ CYRANO:
 
   Agressif: "Moi, monsieur, si j'avais un tel nez
 
-  Il faudrait sur-le-champ que @@je@@ me l'amputasse !"
+  Il faudrait sur-le-champ que @je@ me l'amputasse !"
 
   Amical: "Mais il doit tremper dans votre tasse !
 
@@ -3011,7 +3011,7 @@ CYRANO:
 
   Descriptif: "C'est un roc !. . .c'est un pic !. . .c'est un cap !
 
-  Que dis-@@je@@, c'est un cap ?. . .C'est une péninsule !"
+  Que dis-@je@, c'est un cap ?. . .C'est une péninsule !"
 
   Curieux: "De quoi sert cette oblongue capsule ?
 
@@ -3023,7 +3023,7 @@ CYRANO:
 
   De tendre ce perchoir à leur petites pattes ?"
 
-  Truculent: "Ça, monsieur, lorsque vous pé@@@@@@tu@@@@@@nez,
+  Truculent: "Ça, monsieur, lorsque vous pé@@@tu@@@nez,
 
   La vapeur du tabac vous sort-elle du nez
 
@@ -3059,7 +3059,7 @@ CYRANO:
 
   Naïf: "Ce monument, quand le visite-t-on ?"
 
-  Respec@@@@@@tu@@@@@@eux: "Souffrez, monsieur, qu'on vous salue,
+  Respec@@@tu@@@eux: "Souffrez, monsieur, qu'on vous salue,
 
   C'est là ce qui s'appelle avoir pignon sur rue !"
 
@@ -3101,7 +3101,7 @@ CYRANO:
 
   Je me les sers moi-même, avec assez de verve,
 
-  Mais @@je@@ ne permets pas qu'un autre me les serve.
+  Mais @je@ ne permets pas qu'un autre me les serve.
 
 
 
@@ -3127,7 +3127,7 @@ CYRANO:
 
   Je ne m'attife pas ainsi qu'un freluquet,
 
-  Mais @@je@@ suis plus soigné si @@je@@ suis moins coquet;
+  Mais @je@ suis plus soigné si @je@ suis moins coquet;
 
   Je ne sortirais pas avec, par négligence,
 
@@ -3137,15 +3137,15 @@ CYRANO:
 
   Un honneur chiffonné, des scrupules en deuil.
 
-  Mais @@je@@ marche sans rien sur moi qui ne re@lui@se,
+  Mais @je@ marche sans rien sur moi qui ne re@lui@se,
 
   Empanaché d'indépendance et de franchise;
 
   Ce n'est pas une taille avantageuse, c'est
 
-  Mon âme que @@je@@ cambre ainsi qu'en un corset,
+  Mon âme que @je@ cambre ainsi qu'en un corset,
 
-  Et tout couvert d'exploits qu'en rubans @@je@@ m'attache,
+  Et tout couvert d'exploits qu'en rubans @je@ m'attache,
 
   Retroussant mon esprit ainsi qu'une moustache,
 
@@ -3167,7 +3167,7 @@ CYRANO:
 
   Il m'en restait un seul. . .d'une très vieille paire !
 
-  --Lequel m'était d'ailleurs encor fort impor@@@@@@tu@@@@@@n:
+  --Lequel m'était d'ailleurs encor fort impor@@@tu@@@n:
 
   Je l'ai laissé dans la figure de quelqu'un.
 
@@ -3253,7 +3253,7 @@ CYRANO:
 
   Oui, monsieur, poète ! et tellement,
 
-  Qu'en ferraillant @@je@@ vais--hop !--à l'improvisade,
+  Qu'en ferraillant @je@ vais--hop !--à l'improvisade,
 
   Vous composer une ballade.
 
@@ -3267,7 +3267,7 @@ LE VICOMTE:
 
 CYRANO:
 
-  Vous ne vous doutez pas de ce que c'est, @@je@@ crois ?
+  Vous ne vous doutez pas de ce que c'est, @je@ crois ?
 
   
 
@@ -3359,17 +3359,17 @@ LA SALLE (surexcitée au plus haut point):
 
 CYRANO (fermant une seconde les yeux):
 
-  Attendez !. . .@@je@@ choisis mes rimes. . .Là, j'y suis.
+  Attendez !. . .@je@ choisis mes rimes. . .Là, j'y suis.
 
   (Il fait ce qu'il dit, à mesure):
 
-  Je @@je@@tte avec grâce mon feutre,
+  Je @je@tte avec grâce mon feutre,
 
   Je fais lentement l'abandon
 
   Du grand manteau qui me calfeutre,
 
-  Et @@je@@ tire mon espadon;
+  Et @je@ tire mon espadon;
 
   Élégant comme Céladon,
 
@@ -3377,13 +3377,13 @@ CYRANO (fermant une seconde les yeux):
 
   Je vous préviens, cher Mirmydon,
 
-  Qu'à la fin de l'envoi @@je@@ touche !
+  Qu'à la fin de l'envoi @je@ touche !
 
   (Premiers engagements de fer):
 
   Vous auriez bien dû rester neutre;
 
-  Où vais-@@je@@ vous larder, dindon ?. . .
+  Où vais-@je@ vous larder, dindon ?. . .
 
   Dans le flanc, sous votre maheutre ?. . .
 
@@ -3395,7 +3395,7 @@ CYRANO (fermant une seconde les yeux):
 
   Décidément. . .c'est au bedon,
 
-  Qu'à la fin de l'envoi, @@je@@ touche.
+  Qu'à la fin de l'envoi, @je@ touche.
 
   Il me manque une rime en eutre. . .
 
@@ -3403,15 +3403,15 @@ CYRANO (fermant une seconde les yeux):
 
   C'est pour me fournir le mot pleutre !
 
-  --Tac ! @@je@@ pare la pointe dont
+  --Tac ! @je@ pare la pointe dont
 
   Vous espériez me faire don;--
 
-  J'ouvre la ligne,--@@je@@ la bouche. . .
+  J'ouvre la ligne,--@je@ la bouche. . .
 
   Tiens bien ta broche, Laridon !
 
-  A la fin de l'envoi, @@je@@ touche.
+  A la fin de l'envoi, @je@ touche.
 
   (Il annonce solennellement):
 
@@ -3421,7 +3421,7 @@ CYRANO (fermant une seconde les yeux):
 
   Je quarte du pied, j'escarmouche,
 
-  Je coupe, @@je@@ feinte. . .
+  Je coupe, @je@ feinte. . .
 
   (Se fendant):
 
@@ -3429,7 +3429,7 @@ CYRANO (fermant une seconde les yeux):
 
   (Le vicomte chancelle; Cyrano salue):
 
-  A la fin de l'envoi, @@je@@ touche !
+  A la fin de l'envoi, @je@ touche !
 
   (Acclamations. Applaudissements dans les loges. Des fleurs et des
 
@@ -3493,7 +3493,7 @@ UN MOUSQUETAIRE (s'avançant vivement vers Cyrano, la main tendue):
 
   Monsieur, voulez-vous me permettre ?. . .
 
-  C'est tout à fait très bien, et @@je@@ crois m'y connaître;
+  C'est tout à fait très bien, et @je@ crois m'y connaître;
 
   J'ai du reste exprimé ma joie en trépignant !. . .
 
@@ -3585,7 +3585,7 @@ CYRANO (fièrement):
 
   (Changeant de ton, en voyant que le portier est loin):
 
-  Que @@je@@ n'ai pas d'argent !. . .
+  Que @je@ n'ai pas d'argent !. . .
 
 
 
@@ -3597,7 +3597,7 @@ LE BRET (faisant le geste de lancer un sac):
 
 CYRANO:
 
-  Pension paternelle, en un jour, @@@@@@tu@@@@@@ vécus !
+  Pension paternelle, en un jour, @@@tu@@@ vécus !
 
 
 
@@ -3631,7 +3631,7 @@ LA DISTRIBUTRICE (toussant derrière son petit comptoir):
 
   (Cyrano et Le Bret se retournent. Elle s'avance intimidée):
 
-  Monsieur. . .Vous savoir @@je@@ûner. . .le cœur me fend. . .
+  Monsieur. . .Vous savoir @je@ûner. . .le cœur me fend. . .
 
   (Montrant le buffet):
 
@@ -3677,7 +3677,7 @@ CYRANO (se découvrant):
 
 LE BRET:
 
-  Mais c'est s@@@@@@tu@@@@@@pide !
+  Mais c'est s@@@tu@@@pide !
 
 
 
@@ -3739,7 +3739,7 @@ CYRANO (à Le Bret):
 
   (Il s'assied):
 
-  Là, @@je@@ me mets à table !
+  Là, @je@ me mets à table !
 
   --Ah !. . .j'avais une faim, mon cher, épouvantable !
 
@@ -3753,7 +3753,7 @@ LE BRET:
 
   Que ces fats aux grands airs belliqueux
 
-  Te fausseront l'esprit si @@@@@@tu@@@@@@ n'écoutes qu'eux !. . .
+  Te fausseront l'esprit si @@@tu@@@ n'écoutes qu'eux !. . .
 
   Va consulter des gens de bon sens, et t'informe
 
@@ -3813,7 +3813,7 @@ LE BRET:
 
 CYRANO (attaquant son grain de raisin):
 
-  Combien puis-@@je@@, à peu près, ce soir, m'en être mis ?
+  Combien puis-@je@, à peu près, ce soir, m'en être mis ?
 
 
 
@@ -3839,13 +3839,13 @@ LE BRET:
 
 CYRANO:
 
-  Assez ! @@@@@@tu@@@@@@ me ravis !
+  Assez ! @@@tu@@@ me ravis !
 
 
 
 LE BRET:
 
-  Mais où te mènera la façon dont @@@@@@tu@@@@@@ vis ?
+  Mais où te mènera la façon dont @@@tu@@@ vis ?
 
   Quel système est le tien ?
 
@@ -3895,7 +3895,7 @@ CYRANO (se levant):
 
   Des yeux de carpe avec ses gros yeux de grenouille !. . .
 
-  Et @@je@@ le hais depuis qu'il se permit, un soir,
+  Et @je@ le hais depuis qu'il se permit, un soir,
 
   De poser son regard, sur celle. . .Oh ! j'ai cru voir
 
@@ -3903,7 +3903,7 @@ CYRANO (se levant):
 
 
 
-LE BRET (s@@@@@@tu@@@@@@péfait):
+LE BRET (s@@@tu@@@péfait):
 
   Hein ? Comment ? Serait-il possible ?. . .
 
@@ -3921,7 +3921,7 @@ CYRANO (avec un rire amer):
 
 LE BRET:
 
-  Et peut-on savoir ? @@@@@@tu@@@@@@ ne m'as jamais dit ?. . .
+  Et peut-on savoir ? @@@tu@@@ ne m'as jamais dit ?. . .
 
 
 
@@ -3969,7 +3969,7 @@ CYRANO:
 
   Mortel sans le vouloir, exquis sans y songer,
 
-  Un piège de na@@@@@@tu@@@@@@re, une rose muscade
+  Un piège de na@@@tu@@@re, une rose muscade
 
   Dans laquelle l'amour se tient en embuscade !
 
@@ -3979,7 +3979,7 @@ CYRANO:
 
   Tenir tout le divin dans un geste quelconque,
 
-  Et @@@@@@tu@@@@@@ ne saurais pas, Vénus, monter en conque,
+  Et @@@tu@@@ ne saurais pas, Vénus, monter en conque,
 
   Ni toi, Diane, marcher dans les grands bois fleuris,
 
@@ -3989,7 +3989,7 @@ CYRANO:
 
 LE BRET:
 
-  Sapristi ! @@je@@ comprends. C'est clair !
+  Sapristi ! @je@ comprends. C'est clair !
 
 
 
@@ -4023,17 +4023,17 @@ CYRANO:
 
   Regarde-moi, mon cher, et dis quelle espérance
 
-  Pourrait bien me laisser cette pro@@@@@@tu@@@@@@bérance !
+  Pourrait bien me laisser cette pro@@@tu@@@bérance !
 
-  Oh ! @@je@@ ne me fais pas d'illusion !--Parbleu,
+  Oh ! @je@ ne me fais pas d'illusion !--Parbleu,
 
-  Oui, quelquefois, @@je@@ m'attendris, dans le soir bleu;
+  Oui, quelquefois, @je@ m'attendris, dans le soir bleu;
 
   J'entre en quelque jardin où l'heure se parfume;
 
-  Avec mon pauvre grand diable de nez @@je@@ hume
+  Avec mon pauvre grand diable de nez @je@ hume
 
-  L'avril,--@@je@@ suis des yeux, sous un rayon d'argent,
+  L'avril,--@je@ suis des yeux, sous un rayon d'argent,
 
   Au bras d'un cavalier, quelque femme, en songeant
 
@@ -4077,11 +4077,11 @@ CYRANO:
 
   La divine beauté des larmes se commettre
 
-  Avec tant de laideur grossière !. . .Vois-@@@@@@tu@@@@@@ bien,
+  Avec tant de laideur grossière !. . .Vois-@@@tu@@@ bien,
 
   Les larmes, il n'est rien de plus sublime, rien,
 
-  Et @@je@@ ne voudrais pas qu'excitant la risée,
+  Et @je@ ne voudrais pas qu'excitant la risée,
 
   Une seule, par moi, fût ridiculisée !. . .
 
@@ -4095,9 +4095,9 @@ LE BRET:
 
 CYRANO (secouant la tête):
 
-  Non ! J'aime Cléopâtre: ai-@@je@@ l'air d'un César ?
+  Non ! J'aime Cléopâtre: ai-@je@ l'air d'un César ?
 
-  J'adore Bérénice: ai-@@je@@ l'aspect d'un Tite ?
+  J'adore Bérénice: ai-@je@ l'aspect d'un Tite ?
 
 
 
@@ -4107,7 +4107,7 @@ LE BRET:
 
   Qui t'offrait là, tantôt, ce modeste repas,
 
-  Ses yeux, @@@@@@tu@@@@@@ l'as bien vu, ne te détestaient pas !
+  Ses yeux, @@@tu@@@ l'as bien vu, ne te détestaient pas !
 
 
 
@@ -4143,7 +4143,7 @@ CYRANO:
 
   Qu'elle me rie au nez ?
 
-  Non !--C'est la seule chose au monde que @@je@@ craigne !
+  Non !--C'est la seule chose au monde que @je@ craigne !
 
 
 
@@ -4313,7 +4313,7 @@ CYRANO (tombant dans les bras de Le Bret):
 
 LE BRET:
 
-  Eh bien ! @@@@@@tu@@@@@@ n'es plus triste ?
+  Eh bien ! @@@tu@@@ n'es plus triste ?
 
 
 
@@ -4325,7 +4325,7 @@ CYRANO:
 
 LE BRET:
 
-  Maintenant, @@@@@@tu@@@@@@ vas être calme ?
+  Maintenant, @@@tu@@@ vas être calme ?
 
 
 
@@ -4333,7 +4333,7 @@ CYRANO (hors de @lui@):
 
   Maintenant. . .
 
-  Mais @@je@@ vais être frénétique et fulminant !
+  Mais @je@ vais être frénétique et fulminant !
 
   Il me faut une armée entière a déconfire !
 
@@ -4341,7 +4341,7 @@ CYRANO (hors de @lui@):
 
   De pourfendre des nains. . .
 
-  (Il crie à @@@@@@tu@@@@@@e-tête):
+  (Il crie à @@@tu@@@e-tête):
 
   Il me faut des géants !
 
@@ -4427,7 +4427,7 @@ LIGNIÈRE (d'une voix pâteuse, @lui@ montrant un billet tout chiffonné):
 
 CYRANO:
 
-  Cent hommes, m'as-@@@@@@tu@@@@@@ dit ? Tu coucheras chez toi !
+  Cent hommes, m'as-@@@tu@@@ dit ? Tu coucheras chez toi !
 
 
 
@@ -4447,7 +4447,7 @@ CYRANO (d'une voix terrible, @lui@ montrant la lanterne allumée que le
 
   Et marche !--Je te jure
 
-  Que c'est moi qui ferai ce soir ta couver@@@@@@tu@@@@@@re !. . .
+  Que c'est moi qui ferai ce soir ta couver@@@tu@@@re !. . .
 
   (Aux officiers):
 
@@ -4467,7 +4467,7 @@ CYRANO:
 
   (Les comédiens et les comédiennes, descendus de scène, se sont
 
-  rapprochés dans leurs divers cos@@@@@@tu@@@@@@mes.)
+  rapprochés dans leurs divers cos@@@tu@@@mes.)
 
 
 
@@ -4507,7 +4507,7 @@ CYRANO (frappant sur l'épaule de Lignière):
 
 
 
-UNE COMÉDIENNE (en cos@@@@@@tu@@@@@@me de soubrette):
+UNE COMÉDIENNE (en cos@@@tu@@@me de soubrette):
 
   Tiens, c'est gentil, cela !
 
@@ -4539,7 +4539,7 @@ CYRANO:
 
 UNE AUTRE COMÉDIENNE (sautant de la scène):
 
-  Oh ! mais, moi, @@je@@ vais voir !
+  Oh ! mais, moi, @je@ vais voir !
 
 
 
@@ -4551,7 +4551,7 @@ CYRANO:
 
 UNE AUTRE (sautant aussi, à un vieux comédien):
 
-  Viens-@@@@@@tu@@@@@@, Cassandre ?. . .
+  Viens-@@@tu@@@, Cassandre ?. . .
 
 
 
@@ -4591,7 +4591,7 @@ CYRANO (aux violons):
 
   une retraite aux flambeaux):
 
-  Bravo ! des officiers, des femmes en cos@@@@@@tu@@@@@@me,
+  Bravo ! des officiers, des femmes en cos@@@tu@@@me,
 
   Et, vingt pas en avant. . .
 
@@ -4611,7 +4611,7 @@ CYRANO (aux violons):
 
   et lunaire paraît):
 
-  Ah !. . .Paris fuit, noc@@@@@@tu@@@@@@rne et quasi nébuleux;
+  Ah !. . .Paris fuit, noc@@@tu@@@rne et quasi nébuleux;
 
   Le clair de lune coule aux pentes des toits bleus;
 
@@ -4855,7 +4855,7 @@ RAGUENEAU (devant la cheminée):
 
   A ce palais de croûte, il faut, vous, mettre un toit. . .
 
-  (A un @@je@@une apprenti, qui, assis par terre, embroche des volailles):
+  (A un @je@une apprenti, qui, assis par terre, embroche des volailles):
 
   Et toi, sur cette broche interminable, toi,
 
@@ -4873,7 +4873,7 @@ UN AUTRE APPRENTI (s'avançant avec un plateau recouvert d'une assiette):
 
   Maître, en pensant à vous, dans le four, j'ai fait cuire
 
-  Ceci, qui vous plaira, @@je@@ l'espère.
+  Ceci, qui vous plaira, @je@ l'espère.
 
   (Il découvre le plateau, on voit une grande lyre de pâtisserie.)
 
@@ -4897,7 +4897,7 @@ RAGUENEAU (ému):
 
   L'APPRENTI:
 
-  Et les cordes, voyez, en sucre @@je@@ les fis.
+  Et les cordes, voyez, en sucre @je@ les fis.
 
 
 
@@ -4943,7 +4943,7 @@ RAGUENEAU:
 
 LISE (sèchement):
 
-  Et n'ai-@@je@@ pas le droit d'utiliser vraiment
+  Et n'ai-@je@ pas le droit d'utiliser vraiment
 
   Ce que laissent ici, pour unique paiement,
 
@@ -5029,7 +5029,7 @@ RAGUENEAU (saisi, à part):
 
   (Aux enfants):
 
-  Que @@je@@ les enveloppe ?. . .
+  Que @je@ les enveloppe ?. . .
 
   (Il prend un sac et au moment d'y mettre les pâtés, il lit):
 
@@ -5043,7 +5043,7 @@ RAGUENEAU (saisi, à part):
 
   Le blond Phœbus. . . Pas ce@lui@-là !
 
-  (Même @@je@@u.)
+  (Même @je@u.)
 
 
 
@@ -5081,7 +5081,7 @@ RAGUENEAU (profitant de ce qu'elle tourne le dos, rappelle les enfants
 
   Pst !. . .Petits !. . .Rendez-moi le sonnet à Philis,
 
-  Au lieu de trois pâtés @@je@@ vous en donne six.
+  Au lieu de trois pâtés @je@ vous en donne six.
 
   (Les enfants @lui@ rendent le sac, prennent vivement les gâteaux et
 
@@ -5185,9 +5185,9 @@ CYRANO:
 
 RAGUENEAU (se fendant avec une broche qu'il a saisi):
 
-  A la fin de l'envoi, @@je@@ touche !. . .
+  A la fin de l'envoi, @je@ touche !. . .
 
-  A la fin de l'envoi, @@je@@ touche !. . .Que c'est beau !
+  A la fin de l'envoi, @je@ touche !. . .Que c'est beau !
 
   (Avec un enthousiasme croissant):
 
@@ -5203,7 +5203,7 @@ CYRANO:
 
 RAGUENEAU (restant fendu pour regarder l'horloge):
 
-  Six heures cinq !. . .. . .@@je@@ touche !
+  Six heures cinq !. . .. . .@je@ touche !
 
   (Il se relève):
 
@@ -5259,7 +5259,7 @@ CYRANO:
 
 RAGUENEAU:
 
-  C'est que @@je@@ ne peux pas;
+  C'est que @je@ ne peux pas;
 
   Mes rimeurs vont venir. . .
 
@@ -5273,7 +5273,7 @@ LISE (ironique):
 
 CYRANO:
 
-  Tu les éloigneras quand @@je@@ te ferai signe. . .
+  Tu les éloigneras quand @je@ te ferai signe. . .
 
   L'heure ?
 
@@ -5333,7 +5333,7 @@ CYRANO (reprenant la plume et éloignant du geste Ragueneau):
 
   (Jetant la plume):
 
-  Lâche !. . .Mais que @@je@@ meure,
+  Lâche !. . .Mais que @je@ meure,
 
   Si j'ose @lui@ parler, @lui@ dire un seul mot. . .
 
@@ -5383,7 +5383,7 @@ Scène 2.IV.
 
 Ragueneau, Lise, le mousquetaire, Cyrano, à la petite table, écrivant,
 
-les poètes, vê@@@@@@tu@@@@@@s de noir, les bas tombants, couverts de boue.
+les poètes, vê@@@tu@@@s de noir, les bas tombants, couverts de boue.
 
 
 
@@ -5453,7 +5453,7 @@ DEUXIÈME POÈTE:
 
 CYRANO (levant une seconde la tête):
 
-  Huit ?. . .Tiens, @@je@@ croyais sept.
+  Huit ?. . .Tiens, @je@ croyais sept.
 
   (Il reprend sa lettre.)
 
@@ -5525,7 +5525,7 @@ PREMIER POÈTE:
 
 
 
-CYRANO (même @@je@@u):
+CYRANO (même @je@u):
 
   . . .vos lèvres. . .
 
@@ -5537,19 +5537,19 @@ PREMIER POÈTE:
 
 
 
-CYRANO (même @@je@@u):
+CYRANO (même @je@u):
 
-  . . .Et @@je@@ m'évanouis de peur quand @@je@@ vous vois.
+  . . .Et @je@ m'évanouis de peur quand @je@ vous vois.
 
 
 
 DEUXIÈME POÈTE (happant un gâteau):
 
-  Qu'as-@@@@@@tu@@@@@@ rimé de neuf, Ragueneau ?
+  Qu'as-@@@tu@@@ rimé de neuf, Ragueneau ?
 
 
 
-CYRANO (même @@je@@u):
+CYRANO (même @je@u):
 
   . . .qui vous aime. . .
 
@@ -5619,7 +5619,7 @@ RAGUENEAU (qui s'est préparé à réciter, qui a toussé, assuré son bonnet,
 
 DEUXIÈME POÈTE (au premier, @lui@ donnant un coup de coude):
 
-  Tu dé@@je@@unes ?
+  Tu dé@je@unes ?
 
 
 
@@ -5689,7 +5689,7 @@ CYRANO (qui a observé s'avance vers Ragueneau):
 
   Bercés par ta voix,
 
-  Ne vois-@@@@@@tu@@@@@@ pas comme ils s'empiffrent ?
+  Ne vois-@@@tu@@@ pas comme ils s'empiffrent ?
 
 
 
@@ -5701,7 +5701,7 @@ RAGUENEAU (plus bas, avec un sourire):
 
   Et dire ainsi mes vers me donne un plaisir double,
 
-  Puisque @@je@@ satisfais un doux faible que j'ai
+  Puisque @je@ satisfais un doux faible que j'ai
 
   Tout en laissant manger ceux qui n'ont pas mangé !
 
@@ -5709,7 +5709,7 @@ RAGUENEAU (plus bas, avec un sourire):
 
 CYRANO (@lui@ frappant sur l'épaule):
 
-  Toi, @@@@@@tu@@@@@@ me plais !. . .
+  Toi, @@@tu@@@ me plais !. . .
 
   (Ragueneau va rejoindre ses amis. Cyrano le suit des yeux, puis, un
 
@@ -5731,13 +5731,13 @@ LISE (offensée):
 
   Oh ! mes yeux, d'une œillade hautaine,
 
-  Savent vaincre quiconque attaque mes ver@@@@@@tu@@@@@@s.
+  Savent vaincre quiconque attaque mes ver@@@tu@@@s.
 
 
 
 CYRANO:
 
-  Euh ! pour des yeux vainqueurs, @@je@@ les trouve bat@@@@@@tu@@@@@@s.
+  Euh ! pour des yeux vainqueurs, @je@ les trouve bat@@@tu@@@s.
 
 
 
@@ -5849,7 +5849,7 @@ CYRANO:
 
   Je tire
 
-  Ma lettre si @@je@@ sens seulement qu'il y a
+  Ma lettre si @je@ sens seulement qu'il y a
 
   Le moindre espoir !. . .
 
@@ -5897,7 +5897,7 @@ LA DUÈGNE (piteuse):
 
 CYRANO:
 
-  . . .que @@je@@ vous remplis de darioles.
+  . . .que @je@ vous remplis de darioles.
 
 
 
@@ -5955,7 +5955,7 @@ CYRANO (la poussant dehors):
 
   (Il referme la porte, redescend vers Roxane, et s'arrête, découvert,
 
-  à une distance respec@@@@@@tu@@@@@@euse.)
+  à une distance respec@@@tu@@@euse.)
 
 
 
@@ -5975,7 +5975,7 @@ CYRANO:
 
   Que l'instant entre tous les instants soit béni,
 
-  Où, cessant d'oublier qu'humblement @@je@@ respire
+  Où, cessant d'oublier qu'humblement @je@ respire
 
   Vous venez jusqu'ici pour me dire. . .me dire ?. . .
 
@@ -5985,7 +5985,7 @@ ROXANE (qui s'est démasquée):
 
   Mais tout d'abord merci, car ce drôle, ce fat
 
-  Qu'au brave @@je@@u d'épée, hier, vous avez fait mat,
+  Qu'au brave @je@u d'épée, hier, vous avez fait mat,
 
   C'est @lui@ qu'un grand seigneur. . .épris de moi. . .
 
@@ -6009,7 +6009,7 @@ CYRANO:
 
   (Saluant):
 
-  Je me suis donc bat@@@@@@tu@@@@@@, madame, et c'est tant mieux,
+  Je me suis donc bat@@@tu@@@, madame, et c'est tant mieux,
 
   Non pour mon vilain nez, mais bien pour vos beaux yeux.
 
@@ -6017,11 +6017,11 @@ CYRANO:
 
 ROXANE:
 
-  Puis. . .@@je@@ voulais. . .Mais pour l'aveu que @@je@@ viens faire,
+  Puis. . .@je@ voulais. . .Mais pour l'aveu que @je@ viens faire,
 
-  Il faut que @@je@@ revoie en vous le. . .presque frère,
+  Il faut que @je@ revoie en vous le. . .presque frère,
 
-  Avec qui @@je@@ jouais, dans le parc--près du lac !. . .
+  Avec qui @je@ jouais, dans le parc--près du lac !. . .
 
 
 
@@ -6045,7 +6045,7 @@ CYRANO:
 
 ROXANE:
 
-  C'était le temps des @@je@@ux. . .
+  C'était le temps des @je@ux. . .
 
 
 
@@ -6057,7 +6057,7 @@ CYRANO:
 
 ROXANE:
 
-  Le temps où vous faisiez tout ce que @@je@@ voulais !. . .
+  Le temps où vous faisiez tout ce que @je@ voulais !. . .
 
 
 
@@ -6091,7 +6091,7 @@ ROXANE:
 
   'Qu'est-ce que c'est encor que cette égratignure ?'
 
-  (Elle s'arrête s@@@@@@tu@@@@@@péfaite):
+  (Elle s'arrête s@@@tu@@@péfaite):
 
   Oh ! C'est trop fort ! Et celle-ci !
 
@@ -6099,7 +6099,7 @@ ROXANE:
 
   Non ! Montrez-la !
 
-  Hein ? à votre âge, encor !--Où t'es-@@@@@@tu@@@@@@ fait cela ?
+  Hein ? à votre âge, encor !--Où t'es-@@@tu@@@ fait cela ?
 
 
 
@@ -6261,7 +6261,7 @@ ROXANE:
 
   Il a sur son front de l'esprit, du génie,
 
-  Il est fier, noble, @@je@@une, intrépide, beau. . .
+  Il est fier, noble, @je@une, intrépide, beau. . .
 
 
 
@@ -6289,9 +6289,9 @@ CYRANO:
 
 ROXANE:
 
-  Enfin, @@je@@ l'aime. Il faut d'ailleurs que @@je@@ vous die
+  Enfin, @je@ l'aime. Il faut d'ailleurs que @je@ vous die
 
-  Que @@je@@ ne l'ai jamais vu qu'à la Comédie. . .
+  Que @je@ ne l'ai jamais vu qu'à la Comédie. . .
 
 
 
@@ -6403,7 +6403,7 @@ CYRANO:
 
 ROXANE:
 
-  Non, tous les mots qu'il dit sont fins, @@je@@ le devine !
+  Non, tous les mots qu'il dit sont fins, @je@ le devine !
 
 
 
@@ -6479,7 +6479,7 @@ ROXANE:
 
 CYRANO:
 
-  C'est bien, @@je@@ défendrai votre petit baron.
+  C'est bien, @je@ défendrai votre petit baron.
 
 
 
@@ -6523,7 +6523,7 @@ CYRANO:
 
 ROXANE:
 
-  Oh ! @@je@@ vous aime bien. Il faut que @@je@@ m'en aille.
+  Oh ! @je@ vous aime bien. Il faut que @je@ m'en aille.
 
   (Elle remet vivement son masque, une dentelle sur son front, et,
 
@@ -6537,7 +6537,7 @@ ROXANE:
 
   (Elle @lui@ envoie un petit baiser de la main):
 
-  Oh ! @@je@@ vous aime !
+  Oh ! @je@ vous aime !
 
 
 
@@ -6565,7 +6565,7 @@ ROXANE:
 
   Qu'il m'écrive !--Cent hommes !--
 
-  Vous me direz plus tard. Maintenant, @@je@@ ne puis.
+  Vous me direz plus tard. Maintenant, @je@ ne puis.
 
   Cent hommes ! Quel courage !
 
@@ -6609,7 +6609,7 @@ CYRANO (sans bouger):
 
   (Ragueneau fait signe et ses amis rentrent. En même temps, à la porte
 
-  du fond paraît Carbon de Castel-Jaloux, cos@@@@@@tu@@@@@@me de capitaine aux
+  du fond paraît Carbon de Castel-Jaloux, cos@@@tu@@@me de capitaine aux
 
   gardes, qui fait de grands gestes en apercevant Cyrano.)
 
@@ -6731,7 +6731,7 @@ CYRANO:
 
 TROISIÈME CADET:
 
-  Que @@je@@ t'embrasse !
+  Que @je@ t'embrasse !
 
 
 
@@ -6787,7 +6787,7 @@ LE BRET (entrant, et courant à Cyrano):
 
 CYRANO (épouvanté):
 
-  Tu ne leur as pas dit où @@je@@ me trouve ?. . .
+  Tu ne leur as pas dit où @je@ me trouve ?. . .
 
 
 
@@ -6857,13 +6857,13 @@ LE BRET (ravi):
 
 UN PETIT MARQUIS (accourant, les mains tendues):
 
-  Si @@@@@@tu@@@@@@ savais, mon cher. . .
+  Si @@@tu@@@ savais, mon cher. . .
 
 
 
 CYRANO:
 
-  Si @@@@@@tu@@@@@@ ?. . .Tu ?. . .Qu'est-ce donc qu'ensemble nous gardâmes ?
+  Si @@@tu@@@ ?. . .Tu ?. . .Qu'est-ce donc qu'ensemble nous gardâmes ?
 
 
 
@@ -6883,9 +6883,9 @@ CYRANO (froidement):
 
 
 
-LE BRET (s@@@@@@tu@@@@@@péfait):
+LE BRET (s@@@tu@@@péfait):
 
-  Mais qu'as-@@@@@@tu@@@@@@ donc ?
+  Mais qu'as-@@@tu@@@ donc ?
 
 
 
@@ -6897,7 +6897,7 @@ CYRANO:
 
 UN HOMME DE LETTRES (avec une écritoire):
 
-  Puis-@@je@@ avoir des détails sur ?. . .
+  Puis-@je@ avoir des détails sur ?. . .
 
 
 
@@ -7083,7 +7083,7 @@ CYRANO:
 
 CARBON:
 
-  Puisque ma compagnie est, @@je@@ crois, au complet,
+  Puisque ma compagnie est, @je@ crois, au complet,
 
   Veuillez la présenter au comte, s'il vous plaît.
 
@@ -7239,7 +7239,7 @@ CYRANO:
 
   Il le paye moins cher
 
-  Que moi, lorsque j'ai fait un vers, et que @@je@@ l'aime,
+  Que moi, lorsque j'ai fait un vers, et que @je@ l'aime,
 
   Je me le paye, en me le chantant à moi-même !
 
@@ -7325,7 +7325,7 @@ CYRANO (prenant l'épée où ils sont enfilés, et les faisant, dans un
 
 DE GUICHE (se levant et d'une voix brève):
 
-  Ma chaise et mes porteurs, tout de suite: @@je@@ monte.
+  Ma chaise et mes porteurs, tout de suite: @je@ monte.
 
   (A Cyrano, violemment):
 
@@ -7439,13 +7439,13 @@ LE BRET (désolé, redescendant, les bras au ciel):
 
 CYRANO:
 
-  Oh ! toi ! @@@@@@tu@@@@@@ vas grogner !
+  Oh ! toi ! @@@tu@@@ vas grogner !
 
 
 
 LE BRET:
 
-  Enfin, @@@@@@tu@@@@@@ conviendras
+  Enfin, @@@tu@@@ conviendras
 
   Qu'assassiner toujours la chance passagère,
 
@@ -7475,9 +7475,9 @@ CYRANO:
 
 LE BRET:
 
-  Si @@@@@@tu@@@@@@ laissais un peu ton âme mousquetaire,
+  Si @@@tu@@@ laissais un peu ton âme mousquetaire,
 
-  La for@@@@@@tu@@@@@@ne et la gloire. . .
+  La for@@@tu@@@ne et la gloire. . .
 
 
 
@@ -7489,7 +7489,7 @@ CYRANO:
 
   Et comme un lierre obscur qui circonvient un tronc
 
-  Et s'en fait un @@@@@@tu@@@@@@teur en @lui@ léchant l'écorce,
+  Et s'en fait un @@@tu@@@teur en @lui@ léchant l'écorce,
 
   Grimper par ruse au lieu de s'élever par force ?
 
@@ -7501,7 +7501,7 @@ CYRANO:
 
   Naître un sourire, enfin, qui ne soit pas sinistre ?
 
-  Non, merci. Dé@@je@@uner, chaque jour, d'un crapaud ?
+  Non, merci. Dé@je@uner, chaque jour, d'un crapaud ?
 
   Avoir un ventre usé par la marche ? une peau
 
@@ -7541,7 +7541,7 @@ CYRANO:
 
   Être terrorisé par de vagues gazettes,
 
-  Et se dire sans cesse: "Oh, pourvu que @@je@@ sois
+  Et se dire sans cesse: "Oh, pourvu que @je@ sois
 
   Dans les petits papiers du Mercure François ?". . .
 
@@ -7561,7 +7561,7 @@ CYRANO:
 
   Pour un oui, pour un non, se battre,--ou faire un vers !
 
-  Travailler sans souci de gloire ou de for@@@@@@tu@@@@@@ne,
+  Travailler sans souci de gloire ou de for@@@tu@@@ne,
 
   A tel voyage, auquel on pense, dans la lune !
 
@@ -7571,7 +7571,7 @@ CYRANO:
 
   Soit satisfait des fleurs, des fruits, même des feuilles,
 
-  Si c'est dans ton jardin à toi que @@@@@@tu@@@@@@ les cueilles !
+  Si c'est dans ton jardin à toi que @@@tu@@@ les cueilles !
 
   Puis, s'il advient d'un peu triompher, par hasard,
 
@@ -7591,7 +7591,7 @@ LE BRET:
 
   Tout seul, soit ! Mais non pas contre tous ! Comment diable
 
-  As-@@@@@@tu@@@@@@ donc contracté la manie effroyable
+  As-@@@tu@@@ donc contracté la manie effroyable
 
   De te faire toujours, partout, des ennemis ?
 
@@ -7623,7 +7623,7 @@ CYRANO:
 
   Déplaire est mon plaisir. J'aime qu'on me haïsse.
 
-  Mon cher, si @@@@@@tu@@@@@@ savais comme l'on marche mieux
+  Mon cher, si @@@tu@@@ savais comme l'on marche mieux
 
   Sous la pistolétade excitante des yeux !
 
@@ -7643,7 +7643,7 @@ CYRANO:
 
   S'abandonne à pencher dans tous les sens. Mais moi,
 
-  La Haine, chaque jour, me @@@@@@tu@@@@@@yaute et m'apprête
+  La Haine, chaque jour, me @@@tu@@@yaute et m'apprête
 
   La fraise dont l'empois force à lever la tête;
 
@@ -7743,7 +7743,7 @@ PREMIER CADET (goguenard):
 
   Monsieur de Neuvillette, apprenez quelque chose:
 
-  C'est qu'il est un ob@@je@@t, chez nous, dont on ne cause
+  C'est qu'il est un ob@je@t, chez nous, dont on ne cause
 
   Pas plus que de cordon dans l'hôtel d'un pendu !
 
@@ -7803,7 +7803,7 @@ UN AUTRE (d'une voix caverneuse,--surgissant de sous la table où il
 
 UN AUTRE (@lui@ posant la main sur l'épaule):
 
-  Un mot suffit ! Que dis-@@je@@, un mot ? Un geste, un seul !
+  Un mot suffit ! Que dis-@je@, un mot ? Un geste, un seul !
 
   Et tirer son mouchoir, c'est tirer son linceul !
 
@@ -7871,11 +7871,11 @@ CYRANO (redescendant vers eux):
 
   le col. Christian s'est mis à cheval sur une chaise):
 
-  Eh bien ! donc @@je@@ marchais tout seul, à leur rencontre.
+  Eh bien ! donc @je@ marchais tout seul, à leur rencontre.
 
   La lune, dans le ciel, @lui@sait comme une montre,
 
-  Quand soudain, @@je@@ ne sais quel soigneux horloger
+  Quand soudain, @je@ ne sais quel soigneux horloger
 
   S'étant mis à passer un coton nuager
 
@@ -7895,7 +7895,7 @@ CHRISTIAN:
 
   (Silence. Tous le monde se lève lentement. On regarde Cyrano avec
 
-  terreur. Ce@lui@-ci s'est interrompu, s@@@@@@tu@@@@@@péfait. Attente.)
+  terreur. Ce@lui@-ci s'est interrompu, s@@@tu@@@péfait. Attente.)
 
 
 
@@ -7931,7 +7931,7 @@ CYRANO (vivement, s'arrêtant):
 
   Ah ! C'est bien. . .
 
-  (Il pâlit, rougit, a encore un mouvement pour se @@je@@ter sur Christian):
+  (Il pâlit, rougit, a encore un mouvement pour se @je@ter sur Christian):
 
   Je. . .
 
@@ -7947,13 +7947,13 @@ CYRANO (vivement, s'arrêtant):
 
   Mordious !. . .
 
-  (Il continue d'un ton na@@@@@@tu@@@@@@rel):
+  (Il continue d'un ton na@@@tu@@@rel):
 
   que l'on n'y voyait rien.
 
-  (S@@@@@@tu@@@@@@peur. On se rassied en se regardant):
+  (S@@@tu@@@peur. On se rassied en se regardant):
 
-  Et @@je@@ marchais, songeant que pour un gueux fort mince
+  Et @je@ marchais, songeant que pour un gueux fort mince
 
   J'allais mécontenter quelque grand, quelque prince,
 
@@ -8007,7 +8007,7 @@ CYRANO (essuyant la sueur à son front):
 
   --Mais j'ajoutai: Marche, Gascon, fais ce que dois !
 
-  Va, Cyrano ! Et ce disant, @@je@@ me hasarde,
+  Va, Cyrano ! Et ce disant, @je@ me hasarde,
 
   Quand, dans l'ombre, quelqu'un me porte. . .
 
@@ -8067,11 +8067,11 @@ CHRISTIAN:
 
 CYRANO:
 
-  et @@je@@ charge !
+  et @je@ charge !
 
   J'en estomaque deux ! J'en empale un tout vif !
 
-  Quelqu'un m'ajuste: Paf ! et @@je@@ riposte. . .
+  Quelqu'un m'ajuste: Paf ! et @je@ riposte. . .
 
 
 
@@ -8123,9 +8123,9 @@ UN AUTRE CADET:
 
 RAGUENEAU:
 
-  Je sens que @@je@@ blanchis,
+  Je sens que @je@ blanchis,
 
-  Et que @@je@@ m'amollis comme une serviette !
+  Et que @je@ m'amollis comme une serviette !
 
 
 
@@ -8279,7 +8279,7 @@ CYRANO:
 
 CHRISTIAN (@lui@ prenant les mains):
 
-  Comme @@je@@ suis heureux, Monsieur, de vous connaître !
+  Comme @je@ suis heureux, Monsieur, de vous connaître !
 
 
 
@@ -8303,7 +8303,7 @@ CYRANO (le regardant, et @lui@ mettant la main sur l'épaule):
 
 CHRISTIAN:
 
-  Si vous saviez, Monsieur, comme @@je@@ vous admire !
+  Si vous saviez, Monsieur, comme @je@ vous admire !
 
 
 
@@ -8351,15 +8351,15 @@ CYRANO:
 
 CHRISTIAN:
 
-  Las ! @@je@@ suis sot à m'en @@@@@@tu@@@@@@er de honte !
+  Las ! @je@ suis sot à m'en @@@tu@@@er de honte !
 
 
 
 CYRANO:
 
-  Mais non, @@@@@@tu@@@@@@ ne l'es pas, puisque @@@@@@tu@@@@@@ t'en rends compte.
+  Mais non, @@@tu@@@ ne l'es pas, puisque @@@tu@@@ t'en rends compte.
 
-  D'ailleurs, @@@@@@tu@@@@@@ ne m'as pas attaqué comme un sot.
+  D'ailleurs, @@@tu@@@ ne m'as pas attaqué comme un sot.
 
 
 
@@ -8369,9 +8369,9 @@ CHRISTIAN:
 
   Oui, j'ai certain esprit facile et militaire,
 
-  Mais @@je@@ ne sais, devant les femmes, que me taire.
+  Mais @je@ ne sais, devant les femmes, que me taire.
 
-  Oh ! leurs yeux, quand @@je@@ passe, ont pour moi des bontés. . .
+  Oh ! leurs yeux, quand @je@ passe, ont pour moi des bontés. . .
 
 
 
@@ -8383,7 +8383,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Non ! car @@je@@ suis de ceux,--@@je@@ le sais. . .et @@je@@ tremble !--
+  Non ! car @je@ suis de ceux,--@je@ le sais. . .et @je@ tremble !--
 
   Qui ne savent parler d'amour.
 
@@ -8413,7 +8413,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Roxane est précieuse et sûrement @@je@@ vais
+  Roxane est précieuse et sûrement @je@ vais
 
   Désillusionner Roxane !
 
@@ -8451,9 +8451,9 @@ CHRISTIAN:
 
 CYRANO:
 
-  Te sens-@@@@@@tu@@@@@@ de force à répéter les choses
+  Te sens-@@@tu@@@ de force à répéter les choses
 
-  Que chaque jour @@je@@ t'apprendrai ?. . .
+  Que chaque jour @je@ t'apprendrai ?. . .
 
 
 
@@ -8467,11 +8467,11 @@ CYRANO:
 
   Roxane n'aura pas de désillusions !
 
-  Dis, veux-@@@@@@tu@@@@@@ qu'à nous deux nous la séduisions ?
+  Dis, veux-@@@tu@@@ qu'à nous deux nous la séduisions ?
 
-  Veux-@@@@@@tu@@@@@@ sentir passer, de mon pourpoint de buffle
+  Veux-@@@tu@@@ sentir passer, de mon pourpoint de buffle
 
-  Dans ton pourpoint brodé, l'âme que @@je@@ t'insuffle !. . .
+  Dans ton pourpoint brodé, l'âme que @je@ t'insuffle !. . .
 
 
 
@@ -8483,7 +8483,7 @@ CHRISTIAN:
 
 CYRANO:
 
-  Christian, veux-@@@@@@tu@@@@@@ ?
+  Christian, veux-@@@tu@@@ ?
 
 
 
@@ -8495,9 +8495,9 @@ CHRISTIAN:
 
 CYRANO:
 
-  Puisque @@@@@@tu@@@@@@ crains, tout seul, de refroidir son cœur,
+  Puisque @@@tu@@@ crains, tout seul, de refroidir son cœur,
 
-  Veux-@@@@@@tu@@@@@@ que nous fassions--et bientôt @@@@@@tu@@@@@@ l'embrases !--
+  Veux-@@@tu@@@ que nous fassions--et bientôt @@@tu@@@ l'embrases !--
 
   Collaborer un peu tes lèvres et mes phrases ?. . .
 
@@ -8511,7 +8511,7 @@ CHRISTIAN:
 
 CYRANO:
 
-  Veux-@@@@@@tu@@@@@@ ?
+  Veux-@@@tu@@@ ?
 
 
 
@@ -8533,11 +8533,11 @@ CYRANO (avec enivrement):
 
   C'est une expérience à tenter un poète.
 
-  Veux-@@@@@@tu@@@@@@ me compléter et que @@je@@ te complète ?
+  Veux-@@@tu@@@ me compléter et que @je@ te complète ?
 
   Tu marcheras, j'irai dans l'ombre à ton côté:
 
-  Je serai ton esprit, @@@@@@tu@@@@@@ seras ma beauté.
+  Je serai ton esprit, @@@tu@@@ seras ma beauté.
 
 
 
@@ -8595,13 +8595,13 @@ CYRANO:
 
   Que du rêve soufflé dans la bulle d'un nom !. . .
 
-  Prends, et @@@@@@tu@@@@@@ changeras en vérités ces feintes;
+  Prends, et @@@tu@@@ changeras en vérités ces feintes;
 
   Je lançais au hasard ces aveux et ces plaintes:
 
   Tu verras se poser tous ces oiseaux errants.
 
-  Tu verras que @@je@@ fus dans cette lettre--prends !--
+  Tu verras que @je@ fus dans cette lettre--prends !--
 
   D'autant plus éloquent que j'étais moins sincère !
 
@@ -8643,7 +8643,7 @@ CHRISTIAN:
 
   Ah ! mon ami !
 
-  (Il se @@je@@tte dans les bras de Cyrano. Ils restent embrassés.)
+  (Il se @je@tte dans les bras de Cyrano. Ils restent embrassés.)
 
 
 
@@ -8787,7 +8787,7 @@ grande ouverte sur le balcon de Roxane.
 
 
 
-Près de la duègne se tient debout Ragueneau, vê@@@@@@tu@@@@@@ d'une sorte de livrée:
+Près de la duègne se tient debout Ragueneau, vê@@@tu@@@ d'une sorte de livrée:
 
 il termine un récit, en s'essuyant les yeux.
 
@@ -8811,7 +8811,7 @@ RAGUENEAU:
 
   . . .Et puis, elle est partie avec un mousquetaire !
 
-  Seul, ruiné, @@je@@ me pends. J'avais quitté la terre.
+  Seul, ruiné, @je@ me pends. J'avais quitté la terre.
 
   Monsieur de Bergerac entre, et, me dépendant,
 
@@ -8955,7 +8955,7 @@ ROXANE:
 
 LA DUÈGNE (montrant les pages):
 
-  Qu'est-ce donc que ces deux vir@@@@@@tu@@@@@@oses ?
+  Qu'est-ce donc que ces deux vir@@@tu@@@oses ?
 
 
 
@@ -8977,7 +8977,7 @@ CYRANO:
 
   J'ai donc sur mes talons ces joueurs de théorbe,
 
-  De tout ce que @@je@@ fais harmonieux témoins !. . .
+  De tout ce que @je@ fais harmonieux témoins !. . .
 
   Ce fut d'abord charmant, et ce l'est déjà moins.
 
@@ -9005,7 +9005,7 @@ CYRANO:
 
 ROXANE (sortant de la maison):
 
-  Ah ! qu'il est beau, qu'il a d'esprit, et que @@je@@ l'aime !
+  Ah ! qu'il est beau, qu'il a d'esprit, et que @je@ l'aime !
 
 
 
@@ -9077,7 +9077,7 @@ ROXANE:
 
   (Déclamant):
 
-  Plus @@@@@@tu@@@@@@ me prends de cœur, plus j'en ai !. . .
+  Plus @@@tu@@@ me prends de cœur, plus j'en ai !. . .
 
   (Triomphante, à Cyrano):
 
@@ -9309,9 +9309,9 @@ ROXANE (poliment):
 
 DE GUICHE:
 
-  Moi, @@je@@ suis navré. Vous reverrai-@@je@@ ?. . .Quand ?
+  Moi, @je@ suis navré. Vous reverrai-@je@ ?. . .Quand ?
 
-  --Vous savez que @@je@@ suis nommé mestre de camp ?
+  --Vous savez que @je@ suis nommé mestre de camp ?
 
 
 
@@ -9563,9 +9563,9 @@ ROXANE (le regardant):
 
 DE GUICHE (tout près d'elle):
 
-  Vous m'affolez ! Ce soir--écoutez--oui, @@je@@ dois
+  Vous m'affolez ! Ce soir--écoutez--oui, @je@ dois
 
-  Être parti. Mais fuir quand @@je@@ vous sens émue !. . .
+  Être parti. Mais fuir quand @je@ vous sens émue !. . .
 
   Écoutez. Il y a, près d'ici, dans la rue
 
@@ -9573,7 +9573,7 @@ DE GUICHE (tout près d'elle):
 
   Des capucins, le Père Athanase. Un laïc
 
-  N'y peut entrer. Mais les bons Pères, @@je@@ m'en charge !. . .
+  N'y peut entrer. Mais les bons Pères, @je@ m'en charge !. . .
 
   Il peuvent me cacher dans leur manche: elle est large.
 
@@ -9667,7 +9667,7 @@ ROXANE:
 
 DE GUICHE (transporté de joie):
 
-  Ah ! @@je@@ pars !
+  Ah ! @je@ pars !
 
   (Il @lui@ baise la main):
 
@@ -9691,7 +9691,7 @@ LA DUÈGNE (@lui@ faisant dans le dos une révérence comique):
 
 ROXANE (à la duègne):
 
-  Taisons ce que @@je@@ viens de faire:
+  Taisons ce que @je@ viens de faire:
 
   Cyrano m'en voudrait de @lui@ voler sa guerre !
 
@@ -9763,7 +9763,7 @@ ROXANE (voyant qu'on ouvre):
 
   (Du seuil, à Cyrano):
 
-  Si Christian vient, comme @@je@@ le présume,
+  Si Christian vient, comme @je@ le présume,
 
   Qu'il m'attende !
 
@@ -9775,7 +9775,7 @@ CYRANO (vivement, comme elle va disparaître):
 
   (Elle se retourne):
 
-  Sur quoi, selon votre cou@@@@@@tu@@@@@@me,
+  Sur quoi, selon votre cou@@@tu@@@me,
 
   Comptez-vous aujourd'hui l'interroger !
 
@@ -9895,7 +9895,7 @@ CYRANO:
 
   Ne perdons pas de temps. Ne prends pas l'air grognon.
 
-  Vite, rentrons chez toi, @@je@@ vais t'apprendre. . .
+  Vite, rentrons chez toi, @je@ vais t'apprendre. . .
 
 
 
@@ -9921,19 +9921,19 @@ CYRANO:
 
   De quel vertige
 
-  Es-@@@@@@tu@@@@@@ frappé ? Viens vite apprendre. . .
+  Es-@@@tu@@@ frappé ? Viens vite apprendre. . .
 
 
 
 CHRISTIAN:
 
-  Non, te dis-@@je@@ !
+  Non, te dis-@je@ !
 
   Je suis las d'emprunter mes lettres, mes discours,
 
   Et de jouer ce rôle, et de trembler toujours !. . .
 
-  C'était bon au début ! Mais @@je@@ sens qu'elle m'aime !
+  C'était bon au début ! Mais @je@ sens qu'elle m'aime !
 
   Merci. Je n'ai plus peur. Je vais parler moi-même.
 
@@ -9947,7 +9947,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Et qui te dit que @@je@@ ne saurais pas ?. . .
+  Et qui te dit que @je@ ne saurais pas ?. . .
 
   Je ne suis pas si bête à la fin ! Tu verras !
 
@@ -10075,9 +10075,9 @@ ROXANE:
 
 CHRISTIAN:
 
-  Et puis. . .@@je@@ serais si content
+  Et puis. . .@je@ serais si content
 
-  Si vous m'aimiez !--Dis-moi, Roxane, que @@@@@@tu@@@@@@ m'aimes !
+  Si vous m'aimiez !--Dis-moi, Roxane, que @@@tu@@@ m'aimes !
 
 
 
@@ -10129,7 +10129,7 @@ ROXANE (voulant se lever):
 
 CHRISTIAN (vivement, la retenant):
 
-  Non ! @@je@@ ne t'aime pas !
+  Non ! @je@ ne t'aime pas !
 
 
 
@@ -10153,7 +10153,7 @@ ROXANE (se levant et s'éloignant):
 
 CHRISTIAN:
 
-  Oui. . .@@je@@ deviens sot !
+  Oui. . .@je@ deviens sot !
 
 
 
@@ -10185,7 +10185,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Vous m'aimez, @@je@@ sais. Adieu.
+  Vous m'aimez, @je@ sais. Adieu.
 
   (Elle va vers la maison.)
 
@@ -10201,7 +10201,7 @@ CHRISTIAN:
 
 ROXANE (poussant la porte pour rentrer):
 
-  Que vous m'adorez. . .oui, @@je@@ sais.
+  Que vous m'adorez. . .oui, @je@ sais.
 
   Non ! Non ! Allez-vous-en !
 
@@ -10209,7 +10209,7 @@ ROXANE (poussant la porte pour rentrer):
 
 CHRISTIAN:
 
-  Mais @@je@@. . .
+  Mais @je@. . .
 
   (Elle @lui@ ferme la porte au nez.)
 
@@ -10249,7 +10249,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Je meurs si @@je@@ ne rentre
+  Je meurs si @je@ ne rentre
 
   En grâce, à l'instant même. . .
 
@@ -10257,7 +10257,7 @@ CHRISTIAN:
 
 CYRANO:
 
-  Et comment puis-@@je@@, diantre !
+  Et comment puis-@je@, diantre !
 
   Vous faire à l'instant même, apprendre ?. . .
 
@@ -10315,7 +10315,7 @@ CYRANO:
 
   Là, devant le balcon ! Je me mettrai dessous. . .
 
-  Et @@je@@ te soufflerai tes mots.
+  Et @je@ te soufflerai tes mots.
 
 
 
@@ -10387,7 +10387,7 @@ CHRISTIAN:
 
 
 
-CYRANO (ramassant des cailloux qu'il @@je@@tte dans les vitres):
+CYRANO (ramassant des cailloux qu'il @je@tte dans les vitres):
 
   Attends ! Quelques cailloux.
 
@@ -10481,7 +10481,7 @@ ROXANE (qui allait refermer sa fenêtre, s'arrêtant):
 
 
 
-CHRISTIAN (même @@je@@u):
+CHRISTIAN (même @je@u):
 
   L'amour grandit bercé dans mon âme inquiète. . .
 
@@ -10497,9 +10497,9 @@ ROXANE (s'avançant sur le balcon):
 
 
 
-CHRISTIAN (même @@je@@u):
+CHRISTIAN (même @je@u):
 
-  Aussi l'ai-@@je@@ tenté, mais. . .tentative nulle:
+  Aussi l'ai-@je@ tenté, mais. . .tentative nulle:
 
   Ce. . .nouveau-né, Madame, est un petit. . .Hercule.
 
@@ -10511,7 +10511,7 @@ ROXANE:
 
 
 
-CHRISTIAN (même @@je@@u):
+CHRISTIAN (même @je@u):
 
   De sorte qu'il. . .strangula comme rien. . .
 
@@ -10561,7 +10561,7 @@ CYRANO:
 
   Ils trouvent tout de suite ? Oh ! cela va de soi,
 
-  Puisque c'est dans mon cœur, eux, que @@je@@ les reçois;
+  Puisque c'est dans mon cœur, eux, que @je@ les reçois;
 
   Or, moi, j'ai le cœur grand, vous, l'oreille petite.
 
@@ -10579,19 +10579,19 @@ ROXANE:
 
 CYRANO:
 
-  De cette gymnastique, ils ont pris l'habi@@@@@@tu@@@@@@de !
+  De cette gymnastique, ils ont pris l'habi@@@tu@@@de !
 
 
 
 ROXANE:
 
-  Je vous parle, en effet, d'une vraie alti@@@@@@tu@@@@@@de !
+  Je vous parle, en effet, d'une vraie alti@@@tu@@@de !
 
 
 
 CYRANO:
 
-  Certe, et vous me @@@@@@tu@@@@@@eriez si de cette hauteur
+  Certe, et vous me @@@tu@@@eriez si de cette hauteur
 
   Vous me laissiez tomber un mot dur sur le cœur !
 
@@ -10651,11 +10651,11 @@ CYRANO:
 
   J'aperçois la blancheur d'une robe d'été:
 
-  Moi @@je@@ ne suis qu'une ombre, et vous qu'une clarté !
+  Moi @je@ ne suis qu'une ombre, et vous qu'une clarté !
 
   Vous ignorez pour moi ce que sont ces minutes !
 
-  Si quelquefois @@je@@ fus éloquent. . .
+  Si quelquefois @je@ fus éloquent. . .
 
 
 
@@ -10699,7 +10699,7 @@ CYRANO:
 
   Quiconque est sous vos yeux !. . .Mais, ce soir, il me semble. . .
 
-  Que @@je@@ vais vous parler pour la première fois !
+  Que @je@ vais vous parler pour la première fois !
 
 
 
@@ -10717,7 +10717,7 @@ CYRANO (se rapprochant avec fièvre):
 
   (Il s'arrête et avec égarement):
 
-  Où en étais-@@je@@ ?
+  Où en étais-@je@ ?
 
   Je ne sais. . .tout ceci,--pardonnez mon émoi,--
 
@@ -10751,7 +10751,7 @@ CYRANO:
 
   Toujours, de mon esprit s'habille, par pudeur:
 
-  Je pars pour décrocher l'étoile, et @@je@@ m'arrête
+  Je pars pour décrocher l'étoile, et @je@ m'arrête
 
   Par peur du ridicule, à cueillir la fleurette !
 
@@ -10803,9 +10803,9 @@ CYRANO:
 
   D'abord, mais maintenant ce serait insulter
 
-  Cette nuit, ces parfums, cette heure, la Na@@@@@@tu@@@@@@re,
+  Cette nuit, ces parfums, cette heure, la Na@@@tu@@@re,
 
-  Que de parler comme un billet doux de Voi@@@@@@tu@@@@@@re !
+  Que de parler comme un billet doux de Voi@@@tu@@@re !
 
   --Laissons, d'un seul regard de ses astres, le ciel
 
@@ -10835,7 +10835,7 @@ CYRANO:
 
   Le moment vient d'ailleurs inévitablement,
 
-  --Et @@je@@ plains ceux pour qui ne vient pas ce moment !--
+  --Et @je@ plains ceux pour qui ne vient pas ce moment !--
 
   Où nous sentons qu'en nous une amour noble existe
 
@@ -10855,23 +10855,23 @@ CYRANO:
 
   Tous ceux, tous ceux, tous ceux
 
-  Qui me viendront, @@je@@ vais vous les @@je@@ter, en touffe,
+  Qui me viendront, @je@ vais vous les @je@ter, en touffe,
 
-  Sans les mettre en bouquet: @@je@@ vous aime, j'étouffe,
+  Sans les mettre en bouquet: @je@ vous aime, j'étouffe,
 
-  Je t'aime, @@je@@ suis fou, @@je@@ n'en peux plus, c'est trop;
+  Je t'aime, @je@ suis fou, @je@ n'en peux plus, c'est trop;
 
   Ton nom est dans mon cœur comme dans un grelot,
 
-  Et comme tout le temps, Roxane, @@je@@ frissonne,
+  Et comme tout le temps, Roxane, @je@ frissonne,
 
   Tout le temps, le grelot s'agite, et le nom sonne !
 
-  De toi, @@je@@ me souviens de tout, j'ai tout aimé:
+  De toi, @je@ me souviens de tout, j'ai tout aimé:
 
   Je sais que l'an dernier, un jour, le douze mai,
 
-  Pour sortir le matin @@@@@@tu@@@@@@ changeas de coiffure !
+  Pour sortir le matin @@@tu@@@ changeas de coiffure !
 
   J'ai tellement pris pour clarté ta chevelure
 
@@ -10879,7 +10879,7 @@ CYRANO:
 
   On voit sur toute chose ensuite un rond vermeil,
 
-  Sur tout, quand j'ai quitté les feux dont @@@@@@tu@@@@@@ m'inondes,
+  Sur tout, quand j'ai quitté les feux dont @@@tu@@@ m'inondes,
 
   Mon regard ébloui pose des taches blondes !
 
@@ -10901,21 +10901,21 @@ CYRANO:
 
   De l'amour,--et pourtant il n'est pas égoïste !
 
-  Ah ! que pour ton bonheur @@je@@ donnerais le mien,
+  Ah ! que pour ton bonheur @je@ donnerais le mien,
 
-  Quand même @@@@@@tu@@@@@@ devrais n'en savoir jamais rien,
+  Quand même @@@tu@@@ devrais n'en savoir jamais rien,
 
   S'il se pouvait, parfois, que de loin, j'entendisse
 
   Rire un peu le bonheur né de mon sacrifice !
 
-  --Chaque regard de toi suscite une ver@@@@@@tu@@@@@@
+  --Chaque regard de toi suscite une ver@@@tu@@@
 
-  Nouvelle, une vaillance en moi ! Commences-@@@@@@tu@@@@@@
+  Nouvelle, une vaillance en moi ! Commences-@@@tu@@@
 
-  À comprendre, à présent ? voyons, te rends-@@@@@@tu@@@@@@ compte ?
+  À comprendre, à présent ? voyons, te rends-@@@tu@@@ compte ?
 
-  Sens-@@@@@@tu@@@@@@ mon âme, un peu, dans cette ombre, qui monte ?. . .
+  Sens-@@@tu@@@ mon âme, un peu, dans cette ombre, qui monte ?. . .
 
   Oh ! mais vraiment, ce soir, c'est trop beau, c'est trop doux !
 
@@ -10927,11 +10927,11 @@ CYRANO:
 
   Qu'à mourir maintenant ! C'est à cause des mots
 
-  Que @@je@@ dis qu'elle tremble entre les bleus rameaux !
+  Que @je@ dis qu'elle tremble entre les bleus rameaux !
 
   Car vous tremblez, comme une feuille entre les feuilles !
 
-  Car @@@@@@tu@@@@@@ trembles ! car j'ai senti, que @@@@@@tu@@@@@@ le veuilles
+  Car @@@tu@@@ trembles ! car j'ai senti, que @@@tu@@@ le veuilles
 
   Ou non, le tremblement adoré de ta main
 
@@ -10943,9 +10943,9 @@ CYRANO:
 
 ROXANE:
 
-  Oui, @@je@@ tremble, et @@je@@ pleure, et @@je@@ t'aime, et suis tienne !
+  Oui, @je@ tremble, et @je@ pleure, et @je@ t'aime, et suis tienne !
 
-  Et @@@@@@tu@@@@@@ m'as enivrée !
+  Et @@@tu@@@ m'as enivrée !
 
 
 
@@ -10965,7 +10965,7 @@ CHRISTIAN (sous le balcon):
 
 
 
-ROXANE (se re@@je@@tant en arrière):
+ROXANE (se re@je@tant en arrière):
 
   Hein ?
 
@@ -10985,7 +10985,7 @@ ROXANE:
 
 CYRANO:
 
-  Oui. . .@@je@@. . .
+  Oui. . .@je@. . .
 
   (A Christian bas):
 
@@ -11001,9 +11001,9 @@ CHRISTIAN:
 
 CYRANO (à Roxane):
 
-  Oui, @@je@@. . .j'ai demandé, c'est vrai. . .mais justes cieux !
+  Oui, @je@. . .j'ai demandé, c'est vrai. . .mais justes cieux !
 
-  Je comprends que @@je@@ fus bien trop audacieux.
+  Je comprends que @je@ fus bien trop audacieux.
 
 
 
@@ -11043,7 +11043,7 @@ ROXANE (se penchant):
 
 CYRANO:
 
-  Mais d'être allé trop loin, moi-même @@je@@ me gronde;
+  Mais d'être allé trop loin, moi-même @je@ me gronde;
 
   Je me disais: tais toi, Christian !. . .
 
@@ -11083,7 +11083,7 @@ Cyrano, Christian, un capucin.
 
 CYRANO (au capucin):
 
-  Quel est ce @@je@@u renouvelé de Diogène ?
+  Quel est ce @je@u renouvelé de Diogène ?
 
 
 
@@ -11287,13 +11287,13 @@ CYRANO (s'exaltant):
 
   J'adore comme @lui@ la reine que vous êtes,
 
-  Comme @lui@ @@je@@ suis triste et fidèle. . .
+  Comme @lui@ @je@ suis triste et fidèle. . .
 
 
 
 ROXANE:
 
-  Et @@@@@@tu@@@@@@ es
+  Et @@@tu@@@ es
 
   Beau comme @lui@ !
 
@@ -11301,7 +11301,7 @@ ROXANE:
 
 CYRANO (à part, dégrisé):
 
-  C'est vrai, @@je@@ suis beau, j'oubliais !
+  C'est vrai, @je@ suis beau, j'oubliais !
 
 
 
@@ -11375,11 +11375,11 @@ CYRANO:
 
   Aïe ! au cœur, quel pincement bizarre !
 
-  --Baiser, festin d'amour dont @@je@@ suis le Lazare !
+  --Baiser, festin d'amour dont @je@ suis le Lazare !
 
   Il me vient dans cette ombre une miette de toi,--
 
-  Mais oui, @@je@@ sens un peu mon cœur qui te reçoit,
+  Mais oui, @je@ sens un peu mon cœur qui te reçoit,
 
   Puisque sur cette lèvre où Roxane se leurre
 
@@ -11457,7 +11457,7 @@ Cyrano, Christian, Roxane, le capucin, Ragueneau.
 
 LE CAPUCIN:
 
-  C'est ici,--@@je@@ m'obstine--
+  C'est ici,--@je@ m'obstine--
 
   Magdeleine Robin !
 
@@ -11517,7 +11517,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Oh ! mais il ne va pas m'impor@@@@@@tu@@@@@@ner toujours !
+  Oh ! mais il ne va pas m'impor@@@tu@@@ner toujours !
 
   (Décachetant la lettre):
 
@@ -11531,7 +11531,7 @@ ROXANE:
 
   Battent; mon régiment boucle sa soubreveste;
 
-  Il part; moi, l'on me croit déjà parti: @@je@@ reste.
+  Il part; moi, l'on me croit déjà parti: @je@ reste.
 
   Je vous désobéis. Je suis dans ce couvent.
 
@@ -11545,7 +11545,7 @@ ROXANE:
 
   Éloignez un chacun, et daignez recevoir
 
-  L'audacieux déjà pardonné, @@je@@ l'espère,
+  L'audacieux déjà pardonné, @je@ l'espère,
 
   Qui signe votre très. . .et caetera. . .
 
@@ -11601,7 +11601,7 @@ LE CAPUCIN (rayonnant):
 
 ROXANE (bas à Christian):
 
-  N'est-ce pas que @@je@@ lis très bien les lettres ?
+  N'est-ce pas que @je@ lis très bien les lettres ?
 
 
 
@@ -11639,7 +11639,7 @@ LE CAPUCIN (tournant la lumière vers @lui@, et, comme si un doute @lui@
 
 ROXANE (vivement):
 
-  Post-scrip@@@@@@tu@@@@@@m:
+  Post-scrip@@@tu@@@m:
 
   Donnez pour le couvent cent vingt pistoles.
 
@@ -11691,7 +11691,7 @@ LE CAPUCIN:
 
 CYRANO (les poussant tous vers la maison):
 
-  Allez ! moi, @@je@@ demeure !
+  Allez ! moi, @je@ demeure !
 
 
 
@@ -11787,7 +11787,7 @@ CYRANO:
 
 DE GUICHE (regardant la maison):
 
-  Oui, c'est là. J'y vois mal. Ce masque m'impor@@@@@@tu@@@@@@ne !
+  Oui, c'est là. J'y vois mal. Ce masque m'impor@@@tu@@@ne !
 
   (Il va pour entrer, Cyrano saute du balcon en se tenant à la branche,
 
@@ -11883,7 +11883,7 @@ DE GUICHE (reculant):
 
 CYRANO (marchant sur @lui@):
 
-  Et @@je@@ n'en tombe pas métaphoriquement !. . .
+  Et @je@ n'en tombe pas métaphoriquement !. . .
 
 
 
@@ -11911,11 +11911,11 @@ DE GUICHE (haussant les épaules):
 
 CYRANO (s'interposant):
 
-  Où suis-@@je@@ ? soyez franc !
+  Où suis-@je@ ? soyez franc !
 
   Ne me déguisez rien ! En quel lieu, dans quel site,
 
-  Viens-@@je@@ de choir, Monsieur, comme un aérolithe ?
+  Viens-@je@ de choir, Monsieur, comme un aérolithe ?
 
 
 
@@ -11927,9 +11927,9 @@ DE GUICHE:
 
 CYRANO:
 
-  Tout en cheyant @@je@@ n'ai pu faire choix
+  Tout en cheyant @je@ n'ai pu faire choix
 
-  De mon point d'arrivée,--et j'ignore où @@je@@ chois !
+  De mon point d'arrivée,--et j'ignore où @je@ chois !
 
   Est-ce dans une lune ou bien dans une terre,
 
@@ -11939,13 +11939,13 @@ CYRANO:
 
 DE GUICHE:
 
-  Mais @@je@@ vous dis, Monsieur. . .
+  Mais @je@ vous dis, Monsieur. . .
 
 
 
 CYRANO (avec un cri de terreur qui fait reculer de Guiche):
 
-  Ha ! grand Dieu !. . .@@je@@ crois voir
+  Ha ! grand Dieu !. . .@je@ crois voir
 
   Qu'on a dans ce pays le visage tout noir !
 
@@ -11959,7 +11959,7 @@ DE GUICHE (portant la main à son visage):
 
 CYRANO (avec une peur emphatique):
 
-  Suis-@@je@@ en Alger ? Êtes-vous indigène ?. . .
+  Suis-@je@ en Alger ? Êtes-vous indigène ?. . .
 
 
 
@@ -12009,7 +12009,7 @@ DE GUICHE:
 
 CYRANO (rayonnant):
 
-  C'est à Paris que @@je@@ retombe !
+  C'est à Paris que @je@ retombe !
 
   (Tout à fait à son aise, riant, s'époussetant, saluant):
 
@@ -12039,7 +12039,7 @@ CYRANO (au moment où il va passer, tend sa jambe comme pour y montrer
 
   quelque chose et l'arrête):
 
-  Dans mon mollet @@je@@ rapporte une dent
+  Dans mon mollet @je@ rapporte une dent
 
   De la Grande Ourse,--et comme, en frôlant le Trident,
 
@@ -12085,9 +12085,9 @@ CYRANO:
 
   (Se croisant les bras):
 
-  Non ! croiriez-vous, @@je@@ viens de le voir en tombant,
+  Non ! croiriez-vous, @je@ viens de le voir en tombant,
 
-  Que Sirius, la nuit, s'affuble d'un @@@@@@tu@@@@@@rban ?
+  Que Sirius, la nuit, s'affuble d'un @@@tu@@@rban ?
 
   (Confidentiel):
 
@@ -12099,7 +12099,7 @@ CYRANO:
 
   (Superbe):
 
-  Mais @@je@@ compte en un livre écrire tout ceci,
+  Mais @je@ compte en un livre écrire tout ceci,
 
   Et les étoiles d'or qu'en mon manteau roussi
 
@@ -12111,13 +12111,13 @@ CYRANO:
 
 DE GUICHE:
 
-  A la parfin, @@je@@ veux. . .
+  A la parfin, @je@ veux. . .
 
 
 
 CYRANO:
 
-  Vous, @@je@@ vous vois venir !
+  Vous, @je@ vous vois venir !
 
 
 
@@ -12159,7 +12159,7 @@ DE GUICHE (découragé):
 
 CYRANO (dédaigneux):
 
-  Je n'ai pas refait l'aigle s@@@@@@tu@@@@@@pide
+  Je n'ai pas refait l'aigle s@@@tu@@@pide
 
   De Regiomontanus, ni le pigeon timide
 
@@ -12175,7 +12175,7 @@ DE GUICHE:
 
 CYRANO:
 
-  Non, @@je@@ n'imitai rien de ce qu'on fit avant !
+  Non, @je@ n'imitai rien de ce qu'on fit avant !
 
   (De Guiche a réussi à passer et il marche vers la porte de Roxane.
 
@@ -12197,7 +12197,7 @@ CYRANO (avec volubilité):
 
   La caparaçonner de fioles de cristal
 
-  Toutes pleines des pleurs d'un ciel ma@@@@@@tu@@@@@@tinal,
+  Toutes pleines des pleurs d'un ciel ma@@@tu@@@tinal,
 
   Et ma personne, alors, au soleil exposée,
 
@@ -12213,7 +12213,7 @@ DE GUICHE (surpris et faisant un pas vers Cyrano):
 
 CYRANO (reculant pour l'entraîner de l'autre côté):
 
-  Et @@je@@ pouvais encor
+  Et @je@ pouvais encor
 
   Faire engouffrer du vent, pour prendre mon essor,
 
@@ -12255,7 +12255,7 @@ CYRANO:
 
 
 
-DE GUICHE (même @@je@@u, de plus en plus étonné):
+DE GUICHE (même @je@u, de plus en plus étonné):
 
   Quatre !
 
@@ -12269,7 +12269,7 @@ CYRANO:
 
 
 
-DE GUICHE (s@@@@@@tu@@@@@@péfait):
+DE GUICHE (s@@@tu@@@péfait):
 
   Cinq !
 
@@ -12365,9 +12365,9 @@ CYRANO:
 
   Je m'enlevai dans l'air, droit, tout droit, comme un ange.
 
-  Je montais, @@je@@ montais doucement, sans efforts,
+  Je montais, @je@ montais doucement, sans efforts,
 
-  Quand @@je@@ sentis un choc !. . .Alors. . .
+  Quand @je@ sentis un choc !. . .Alors. . .
 
 
 
@@ -12381,9 +12381,9 @@ CYRANO:
 
   Alors. . .
 
-  (Reprenant sa voix na@@@@@@tu@@@@@@relle):
+  (Reprenant sa voix na@@@tu@@@relle):
 
-  Le quart d'heure est passé, Monsieur, @@je@@ vous délivre:
+  Le quart d'heure est passé, Monsieur, @je@ vous délivre:
 
   Le mariage est fait.
 
@@ -12391,7 +12391,7 @@ CYRANO:
 
 DE GUICHE (se relevant d'un bond):
 
-  Çà, voyons, @@je@@ suis ivre !. . .
+  Çà, voyons, @je@ suis ivre !. . .
 
   Cette voix ?
 
@@ -12445,7 +12445,7 @@ DE GUICHE (à Roxane):
 
   Vous ?
 
-  (Reconnaissant Christian avec s@@@@@@tu@@@@@@peur):
+  (Reconnaissant Christian avec s@@@tu@@@peur):
 
   Lui ?
 
@@ -12467,7 +12467,7 @@ DE GUICHE (à Roxane):
 
 CYRANO (s'inclinant):
 
-  Monsieur, c'est un conseil que @@je@@ m'engage à suivre.
+  Monsieur, c'est un conseil que @je@ m'engage à suivre.
 
 
 
@@ -12535,7 +12535,7 @@ DE GUICHE:
 
 
 
-ROXANE (se @@je@@tant dans les bras de Christian):
+ROXANE (se @je@tant dans les bras de Christian):
 
   Christian !
 
@@ -12587,7 +12587,7 @@ DE GUICHE (qui est remonté au fond):
 
 ROXANE (à Cyrano, en retenant Christian qu'il essaye toujours d'entraîner):
 
-  Oh !. . .@@je@@ vous le confie !
+  Oh !. . .@je@ vous le confie !
 
   Promettez-moi que rien ne va mettre sa vie
 
@@ -12603,7 +12603,7 @@ CYRANO:
 
 
 
-ROXANE (même @@je@@u):
+ROXANE (même @je@u):
 
   Promettez qu'il sera très prudent !
 
@@ -12611,11 +12611,11 @@ ROXANE (même @@je@@u):
 
 CYRANO:
 
-  Oui, @@je@@ tâcherai, mais. . .
+  Oui, @je@ tâcherai, mais. . .
 
 
 
-ROXANE (même @@je@@u):
+ROXANE (même @je@u):
 
   Qu'à ce siège terrible
 
@@ -12631,7 +12631,7 @@ CYRANO:
 
 
 
-ROXANE (même @@je@@u):
+ROXANE (même @je@u):
 
   Qu'il sera fidèle !
 
@@ -12643,7 +12643,7 @@ CYRANO:
 
 
 
-ROXANE (même @@je@@u):
+ROXANE (même @je@u):
 
   Qu'il m'écrira souvent !
 
@@ -12651,7 +12651,7 @@ ROXANE (même @@je@@u):
 
 CYRANO (s'arrêtant):
 
-  Ça,--@@je@@ vous le promets !
+  Ça,--@je@ vous le promets !
 
 
 
@@ -12841,7 +12841,7 @@ LE BRET:
 
 CYRANO:
 
-  Tu sais bien qu'ils ont pris l'habi@@@@@@tu@@@@@@de
+  Tu sais bien qu'ils ont pris l'habi@@@tu@@@de
 
   De me manquer tous les matins !
 
@@ -12883,7 +12883,7 @@ CYRANO:
 
   Pour traverser les rangs espagnols, j'ai choisi
 
-  Un endroit où @@je@@ sais, chaque nuit, qu'ils sont ivres.
+  Un endroit où @je@ sais, chaque nuit, qu'ils sont ivres.
 
 
 
@@ -12895,7 +12895,7 @@ LE BRET:
 
 CYRANO:
 
-  Il faut être léger pour passer !--Mais @@je@@ sais
+  Il faut être léger pour passer !--Mais @je@ sais
 
   Qu'il y aura ce soir du nouveau. Les Français
 
@@ -12963,7 +12963,7 @@ LE BRET:
 
   (Le voyant qui se dirige vers une tente):
 
-  Où vas-@@@@@@tu@@@@@@ ?
+  Où vas-@@@tu@@@ ?
 
 
 
@@ -13009,7 +13009,7 @@ CARBON (avec un soupir):
 
   (Les cadets s'agitent dans leurs manteaux, s'étirent):
 
-  Sommeil succulent, @@@@@@tu@@@@@@ prends fin !. . .
+  Sommeil succulent, @@@tu@@@ prends fin !. . .
 
   Je sais trop quel sera leur premier cri !
 
@@ -13103,7 +13103,7 @@ CARBON (toujours à mi-voix, à la porte de la tente):
 
 DEUXIÈME CADET (se précipitant vers le premier qui mâchonne quelque chose):
 
-  Qu'est-ce que @@@@@@tu@@@@@@ grignotes !
+  Qu'est-ce que @@@tu@@@ grignotes !
 
 
 
@@ -13119,11 +13119,11 @@ LE PREMIER:
 
 UN AUTRE (entrant):
 
-  Moi, @@je@@ viens de chasser !
+  Moi, @je@ viens de chasser !
 
 
 
-UN AUTRE (même @@je@@u):
+UN AUTRE (même @je@u):
 
   J'ai pêché, dans la Scarpe !
 
@@ -13185,7 +13185,7 @@ CYRANO (sortant de sa tente, tranquille, une plume à l'oreille, un livre
 
   (Silence. Au premier cadet):
 
-  Pourquoi t'en vas-@@@@@@tu@@@@@@, toi, de ce pas qui traîne ?
+  Pourquoi t'en vas-@@@tu@@@, toi, de ce pas qui traîne ?
 
 
 
@@ -13257,7 +13257,7 @@ UN AUTRE:
 
 CYRANO:
 
-  Non, non; ventre affamé, pas d'oreilles: @@@@@@tu@@@@@@ mens !
+  Non, non; ventre affamé, pas d'oreilles: @@@tu@@@ mens !
 
 
 
@@ -13279,7 +13279,7 @@ UN AUTRE:
 
 
 
-CYRANO (@lui@ @@je@@tant le livre qu'il tient à la main):
+CYRANO (@lui@ @je@tant le livre qu'il tient à la main):
 
   L'Iliade.
 
@@ -13331,7 +13331,7 @@ UN AUTRE:
 
 CYRANO:
 
-  Eh ! bien !. . .@@@@@@tu@@@@@@ croques le marmot !
+  Eh ! bien !. . .@@@tu@@@ croques le marmot !
 
 
 
@@ -13345,7 +13345,7 @@ CYRANO:
 
   Oui, la pointe, le mot !
 
-  Et @@je@@ voudrais mourir, un soir, sous un ciel rose,
+  Et @je@ voudrais mourir, un soir, sous un ciel rose,
 
   En faisant un bon mot, pour une belle cause !
 
@@ -13371,7 +13371,7 @@ CYRANO (se croisant les bras):
 
   --Approche, Bertrandou le fifre, ancien berger;
 
-  Du double é@@@@@@tu@@@@@@i de cuir tire l'un de tes fifres,
+  Du double é@@@tu@@@i de cuir tire l'un de tes fifres,
 
   Souffle, et joue à ce tas de goinfres et de piffres
 
@@ -13399,7 +13399,7 @@ CYRANO (se croisant les bras):
 
   Que sa chanson l'étonne, et qu'elle y reconnaisse
 
-  L'âme de sa rustique et paisible @@je@@unesse !. . .
+  L'âme de sa rustique et paisible @je@unesse !. . .
 
   (Le vieux commence à jouer des airs languedociens):
 
@@ -13429,7 +13429,7 @@ CYRANO (se croisant les bras):
 
 CARBON (à Cyrano, bas):
 
-  Mais @@@@@@tu@@@@@@ les fais pleurer !
+  Mais @@@tu@@@ les fais pleurer !
 
 
 
@@ -13577,9 +13577,9 @@ CYRANO (vivement):
 
   escabeaux et par terre, sur leurs manteaux, et ils allument de longues
 
-  pipes de pé@@@@@@tu@@@@@@n):
+  pipes de pé@@@tu@@@n):
 
-  Et moi, @@je@@ lis Descartes.
+  Et moi, @je@ lis Descartes.
 
   (Il se promène de long en large et lit dans un petit livre qu'il a
 
@@ -13641,7 +13641,7 @@ DE GUICHE (regardant les cadets):
 
   (Silence. On joue. On fume):
 
-  Vous ferai-@@je@@ punir par votre capitaine ?
+  Vous ferai-@je@ punir par votre capitaine ?
 
   Non.
 
@@ -13649,7 +13649,7 @@ DE GUICHE (regardant les cadets):
 
 CARBON:
 
-  D'ailleurs, @@je@@ suis libre et n'inflige de peine. . .
+  D'ailleurs, @je@ suis libre et n'inflige de peine. . .
 
 
 
@@ -13699,7 +13699,7 @@ DE GUICHE (surpris et satisfait):
 
   Vous savez ce détail ?. . .En effet, il advint,
 
-  Durant que @@je@@ faisais ma caracole afin
+  Durant que @je@ faisais ma caracole afin
 
   De rassembler mes gens la troisième charge,
 
@@ -13713,7 +13713,7 @@ DE GUICHE (surpris et satisfait):
 
   L'écharpe qui disait mon grade militaire;
 
-  En sorte que @@je@@ pus, sans attirer les yeux,
+  En sorte que @je@ pus, sans attirer les yeux,
 
   Quitter les Espagnols, et revenant sur eux,
 
@@ -13747,7 +13747,7 @@ DE GUICHE:
 
   L'adresse a réussi, cependant !
 
-  (Même attente suspendant les @@je@@ux et les pipes.)
+  (Même attente suspendant les @je@ux et les pipes.)
 
 
 
@@ -13805,7 +13805,7 @@ CYRANO (tirant de sa poche l'écharpe blanche et la @lui@ tendant):
 
   cornets à dés. De Guiche se retourne, les regarde: immédiatement ils
 
-  reprennent leur gravité, leurs @@je@@ux; l'un d'eux sifflote avec
+  reprennent leur gravité, leurs @je@ux; l'un d'eux sifflote avec
 
   indifférence l'air montagnard joué par le fifre.)
 
@@ -13839,7 +13839,7 @@ DE GUICHE (redescendant):
 
   De grands services. Les renseignements qu'il porte
 
-  Aux ennemis sont ceux que @@je@@ @lui@ donne, en sorte
+  Aux ennemis sont ceux que @je@ @lui@ donne, en sorte
 
   Que l'on peut influer sur leurs décisions.
 
@@ -13867,7 +13867,7 @@ DE GUICHE (se nouant nonchalamment son écharpe):
 
   Il a pris avec @lui@ des troupes en tel nombre
 
-  Que l'on aurait beau @@je@@u, certe, en nous attaquant:
+  Que l'on aurait beau @je@u, certe, en nous attaquant:
 
   La moitié de l'armée est absente du camp !
 
@@ -13911,7 +13911,7 @@ DE GUICHE:
 
   "C'est bon. Sortez du camp. Suivez des yeux la ligne:
 
-  Ce sera sur le point d'où @@je@@ vous ferai signe."
+  Ce sera sur le point d'où @je@ vous ferai signe."
 
 
 
@@ -13919,7 +13919,7 @@ CARBON (aux cadets):
 
   Messieurs, préparez-vous !
 
-  (Tous se lèvent. Bruit d'épées et de cein@@@@@@tu@@@@@@rons qu'on boucle.)
+  (Tous se lèvent. Bruit d'épées et de cein@@@tu@@@rons qu'on boucle.)
 
 
 
@@ -13953,7 +13953,7 @@ DE GUICHE:
 
   Vous aurez l'obligeance
 
-  De vous faire @@@@@@tu@@@@@@er.
+  De vous faire @@@tu@@@er.
 
 
 
@@ -13965,19 +13965,19 @@ CYRANO:
 
 DE GUICHE:
 
-  Je ne prétendrai pas que si @@je@@ vous aimais
+  Je ne prétendrai pas que si @je@ vous aimais
 
   Je vous eusse choisis vous et les vôtres, mais,
 
   Comme à votre bravoure on n'en compare aucune,
 
-  C'est mon Roi que @@je@@ sers en servant ma rancune.
+  C'est mon Roi que @je@ sers en servant ma rancune.
 
 
 
 CYRANO (saluant):
 
-  Souffrez que @@je@@ vous sois, monsieur, reconnaissant.
+  Souffrez que @je@ vous sois, monsieur, reconnaissant.
 
 
 
@@ -14027,7 +14027,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Au moins, @@je@@ voudrais mettre
+  Au moins, @je@ voudrais mettre
 
   Tout l'adieu de mon cœur dans une belle lettre !. . .
 
@@ -14091,7 +14091,7 @@ CHRISTIAN:
 
 CYRANO:
 
-  Oui. . .Poète, on se prend à son @@je@@u, c'est le charme !. . .
+  Oui. . .Poète, on se prend à son @je@u, c'est le charme !. . .
 
   Tu comprends. . .ce billet,--c'était très émouvant:
 
@@ -14111,7 +14111,7 @@ CYRANO:
 
   Mais. . .ne plus la revoir jamais. . .voilà l'horrible !
 
-  Car enfin @@je@@ ne la. . .
+  Car enfin @je@ ne la. . .
 
   (Christian le regarde):
 
@@ -14119,7 +14119,7 @@ CYRANO:
 
   (Vivement):
 
-  @@@@@@tu@@@@@@ ne la. . .
+  @@@tu@@@ ne la. . .
 
 
 
@@ -14219,7 +14219,7 @@ ROXANE (sautant du carrosse):
 
   (Le son d'une voix de femme relève d'un seul coup tout ce monde
 
-  profondément incliné.--S@@@@@@tu@@@@@@peur.)
+  profondément incliné.--S@@@tu@@@peur.)
 
 
 
@@ -14283,7 +14283,7 @@ CYRANO (qui, au son de sa voix, est resté cloué immobile, sans oser
 
   tourner les yeux vers elle):
 
-  Dieu ! La regarderai-@@je@@ ?
+  Dieu ! La regarderai-@je@ ?
 
 
 
@@ -14347,7 +14347,7 @@ ROXANE:
 
   Marché tant que j'ai vu le pays ravagé.
 
-  Ah ! ces horreurs, il a fallu que @@je@@ les visse
+  Ah ! ces horreurs, il a fallu que @je@ les visse
 
   Pour y croire ! Messieurs, si c'est là le service
 
@@ -14401,7 +14401,7 @@ ROXANE:
 
   Et ces messieurs étant, n'en déplaise aux Français,
 
-  Les plus galantes gens du monde,--@@je@@ passais !
+  Les plus galantes gens du monde,--@je@ passais !
 
 
 
@@ -14419,7 +14419,7 @@ ROXANE:
 
   Fréquemment.
 
-  Alors @@je@@ répondais: "Je vais voir mon amant."
+  Alors @je@ répondais: "Je vais voir mon amant."
 
   --Aussitôt l'Espagnol à l'air le plus féroce
 
@@ -14431,7 +14431,7 @@ ROXANE:
 
   Et superbe de grâce, à la fois, et de morgue,
 
-  L'ergot tendu sous la dentelle en @@@@@@tu@@@@@@yau d'orgue,
+  L'ergot tendu sous la dentelle en @@@tu@@@yau d'orgue,
 
   Le feutre au vent pour que la plume palpitât,
 
@@ -14551,9 +14551,9 @@ ROXANE:
 
   C'est mon mari !
 
-  (Elle se @@je@@tte dans les bras de Christian):
+  (Elle se @je@tte dans les bras de Christian):
 
-  Qu'on me @@@@@@tu@@@@@@e avec toi !
+  Qu'on me @@@tu@@@e avec toi !
 
 
 
@@ -14597,7 +14597,7 @@ ROXANE (à De Guiche):
 
 DE GUICHE:
 
-  Oh ! @@je@@ vous jure !. . .
+  Oh ! @je@ vous jure !. . .
 
 
 
@@ -14605,7 +14605,7 @@ ROXANE:
 
   Non ! Je suis folle à présent !
 
-  Et @@je@@ ne m'en vais plus !--D'ailleurs, c'est amusant.
+  Et @je@ ne m'en vais plus !--D'ailleurs, c'est amusant.
 
 
 
@@ -14617,7 +14617,7 @@ CYRANO:
 
 ROXANE:
 
-  Monsieur de Bergerac, @@je@@ suis votre cousine.
+  Monsieur de Bergerac, @je@ suis votre cousine.
 
 
 
@@ -14725,7 +14725,7 @@ CARBON (après s'être, comme les autres, sanglé, épousseté, avoir brossé
 
   Roxane, et cérémonieusement):
 
-  Peut-être siérait-il que @@je@@ vous présentasse,
+  Peut-être siérait-il que @je@ vous présentasse,
 
   Puisqu'il en est ainsi, quelques de ces messieurs
 
@@ -14959,13 +14959,13 @@ CYRANO (bas à Christian):
 
 
 
-ROXANE (aux cadets qui redescendent, les bras chargés de vic@@@@@@tu@@@@@@ailles):
+ROXANE (aux cadets qui redescendent, les bras chargés de vic@@@tu@@@ailles):
 
   Posez cela par terre !
 
   (Elle met le couvert sur l'herbe, aidée des deux laquais
 
-  imper@@@@@@tu@@@@@@rbables qui étaient derrière le carrosse):
+  imper@@@tu@@@rbables qui étaient derrière le carrosse):
 
 
 
@@ -14973,7 +14973,7 @@ ROXANE (à Christian, au moment où Cyrano allait l'entraîner à part):
 
   Vous, rendez-vous utile ?
 
-  (Christian vient l'aider. Mouvement d'inquié@@@@@@tu@@@@@@de de Cyrano.)
+  (Christian vient l'aider. Mouvement d'inquié@@@tu@@@de de Cyrano.)
 
 
 
@@ -15023,7 +15023,7 @@ RAGUENEAU (lançant des flacons de vin rouge):
 
 
 
-ROXANE (@@je@@tant une nappe pliée à la figure de Cyrano):
+ROXANE (@je@tant une nappe pliée à la figure de Cyrano):
 
   Défaites cette nappe !. . .Eh ! hop ! Soyez léger !
 
@@ -15037,7 +15037,7 @@ RAGUENEAU (brandissant une lanterne arrachée):
 
 CYRANO (bas à Christian, pendant qu'ils arrangent la nappe ensemble):
 
-  Il faut que @@je@@ te parle avant que @@@@@@tu@@@@@@ @lui@ parles !
+  Il faut que @je@ te parle avant que @@@tu@@@ @lui@ parles !
 
 
 
@@ -15049,7 +15049,7 @@ RAGUENEAU (de plus en plus lyrique):
 
 ROXANE (versant du vin, servant):
 
-  Puisqu'on nous fait @@@@@@tu@@@@@@er, morbleu ! nous nous moquons
+  Puisqu'on nous fait @@@tu@@@er, morbleu ! nous nous moquons
 
   Du reste de l'armée !--Oui ! tout pour les Gascons !
 
@@ -15217,7 +15217,7 @@ LE CADET:
 
 DE GUICHE (appelant Carbon de Castel-Jaloux, pour donner un ordre):
 
-  Capitaine ! @@je@@. . .
+  Capitaine ! @je@. . .
 
   (Il s'arrête en le voyant):
 
@@ -15257,7 +15257,7 @@ UN CADET (se dandinant):
 
 UN AUTRE (@lui@ souriant gracieusement):
 
-  Douce sollici@@@@@@tu@@@@@@de !
+  Douce sollici@@@tu@@@de !
 
 
 
@@ -15267,7 +15267,7 @@ DE GUICHE:
 
   (Sèchement):
 
-  N'ayant pas l'habi@@@@@@tu@@@@@@de
+  N'ayant pas l'habi@@@tu@@@de
 
   Du canon, prenez garde au recul.
 
@@ -15375,7 +15375,7 @@ DEUXIÈME CADET (au premier):
 
   Dis donc ! Je crois qu'on peut @lui@ donner à manger !
 
-  (Toutes les vic@@@@@@tu@@@@@@ailles reparaissent comme par enchantement.)
+  (Toutes les vic@@@tu@@@ailles reparaissent comme par enchantement.)
 
 
 
@@ -15393,7 +15393,7 @@ UN TROISIÈME CADET:
 
 DE GUICHE (se maîtrisant, avec hauteur):
 
-  Est-ce que vous croyez que @@je@@ mange vos restes ?
+  Est-ce que vous croyez que @je@ mange vos restes ?
 
 
 
@@ -15407,13 +15407,13 @@ DE GUICHE (fièrement, et à qui échappe sur le dernier mot une légère
 
   pointe d'accent):
 
-  Je vais me battre à @@je@@un !
+  Je vais me battre à @je@un !
 
 
 
 PREMIER CADET (exultant de joie):
 
-  A @@je@@ung ! Il vient d'avoir l'accent !
+  A @je@ung ! Il vient d'avoir l'accent !
 
 
 
@@ -15495,7 +15495,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Oui, @@je@@ sais !. . .
+  Oui, @je@ sais !. . .
 
 
 
@@ -15515,7 +15515,7 @@ CHRISTIAN:
 
 CYRANO:
 
-  Il faut que @@je@@ te dise !. . .
+  Il faut que @je@ te dise !. . .
 
   Oh ! mon Dieu, c'est tout simple, et j'y pense aujourd'hui
 
@@ -15533,7 +15533,7 @@ CYRANO:
 
   Tu @lui@. . .
 
-  As écrit plus souvent que @@@@@@tu@@@@@@ ne crois.
+  As écrit plus souvent que @@@tu@@@ ne crois.
 
 
 
@@ -15567,7 +15567,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Mais comment t'y es-@@@@@@tu@@@@@@ pris,
+  Mais comment t'y es-@@@tu@@@ pris,
 
   Depuis qu'on est bloqué pour ?. . .
 
@@ -15585,7 +15585,7 @@ CHRISTIAN (se croisant les bras):
 
   Ah ! c'est tout simple encore ?
 
-  Et qu'ai-@@je@@ écrit de fois par semaine ?. . .Deux ?--Trois ?--
+  Et qu'ai-@je@ écrit de fois par semaine ?. . .Deux ?--Trois ?--
 
   Quatre ?--
 
@@ -15613,7 +15613,7 @@ CHRISTIAN (violemment):
 
   Et cela t'enivrait, et l'ivresse était telle
 
-  Que @@@@@@tu@@@@@@ bravais la mort. . .
+  Que @@@tu@@@ bravais la mort. . .
 
 
 
@@ -15673,7 +15673,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Tant pis pour vous si @@je@@ cours ces dangers !
+  Tant pis pour vous si @je@ cours ces dangers !
 
   Ce sont vos lettres qui m'ont grisée ! Ah ! songez
 
@@ -15695,15 +15695,15 @@ ROXANE:
 
   Tais-toi ! Tu ne peux pas savoir !
 
-  Mon Dieu, @@je@@ t'adorais, c'est vrai, depuis qu'un soir,
+  Mon Dieu, @je@ t'adorais, c'est vrai, depuis qu'un soir,
 
-  D'une voix que @@je@@ t'ignorais, sous ma fenêtre,
+  D'une voix que @je@ t'ignorais, sous ma fenêtre,
 
   Ton âme commença de se faire connaître. . .
 
-  Eh bien ! tes lettres, c'est, vois-@@@@@@tu@@@@@@, depuis un mois,
+  Eh bien ! tes lettres, c'est, vois-@@@tu@@@, depuis un mois,
 
-  Comme si tout le temps @@je@@ l'entendais, ta voix
+  Comme si tout le temps @je@ l'entendais, ta voix
 
   De ce soir-là, si tendre, et qui vous enveloppe !
 
@@ -15727,7 +15727,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Je lisais, @@je@@ relisais, @@je@@ défaillais,
+  Je lisais, @je@ relisais, @je@ défaillais,
 
   J'étais à toi. Chacun de ces petits feuillets
 
@@ -15763,7 +15763,7 @@ ROXANE:
 
   Je viens (ô mon Christian, mon maître !
 
-  Vous me relèveriez si @@je@@ voulais me mettre
+  Vous me relèveriez si @je@ voulais me mettre
 
   A vos genoux, c'est donc mon âme que j'y mets,
 
@@ -15807,7 +15807,7 @@ ROXANE:
 
   Eh bien ! toi-même enfin l'emporte sur toi-même,
 
-  Et ce n'est plus que pour ton âme que @@je@@ t'aime !
+  Et ce n'est plus que pour ton âme que @je@ t'aime !
 
 
 
@@ -15821,15 +15821,15 @@ ROXANE:
 
   Sois donc heureux. Car n'être aimé
 
-  Que pour ce dont on est un instant cos@@@@@@tu@@@@@@mé,
+  Que pour ce dont on est un instant cos@@@tu@@@mé,
 
-  Doit mettre un cœur avide et noble à la tor@@@@@@tu@@@@@@re;
+  Doit mettre un cœur avide et noble à la tor@@@tu@@@re;
 
   Mais ta chère pensée efface ta figure,
 
-  Et la beauté par quoi tout d'abord @@@@@@tu@@@@@@ me plus,
+  Et la beauté par quoi tout d'abord @@@tu@@@ me plus,
 
-  Maintenant j'y vois mieux. . .et @@je@@ ne la vois plus !
+  Maintenant j'y vois mieux. . .et @je@ ne la vois plus !
 
 
 
@@ -15853,7 +15853,7 @@ CHRISTIAN (douloureusement):
 
 ROXANE:
 
-  Je comprends, @@@@@@tu@@@@@@ ne peux pas y croire,
+  Je comprends, @@@tu@@@ ne peux pas y croire,
 
   A cet amour ?. . .
 
@@ -15863,7 +15863,7 @@ CHRISTIAN:
 
   Je ne veux pas de cet amour !
 
-  Moi, @@je@@ veux être aimé plus simplement pour. . .
+  Moi, @je@ veux être aimé plus simplement pour. . .
 
 
 
@@ -15885,11 +15885,11 @@ CHRISTIAN:
 
 ROXANE:
 
-  Ah ! @@@@@@tu@@@@@@ n'y entends rien !
+  Ah ! @@@tu@@@ n'y entends rien !
 
   C'est maintenant que j'aime mieux, que j'aime bien !
 
-  C'est ce qui te fait toi, @@@@@@tu@@@@@@ m'entends, que j'adore !
+  C'est ce qui te fait toi, @@@tu@@@ m'entends, que j'adore !
 
   Et moins brillant. . .
 
@@ -15917,7 +15917,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Si, @@je@@ le dis !
+  Si, @je@ le dis !
 
 
 
@@ -15929,7 +15929,7 @@ CHRISTIAN:
 
 ROXANE:
 
-  Laid ! @@je@@ le jure !
+  Laid ! @je@ le jure !
 
 
 
@@ -15953,7 +15953,7 @@ CHRISTIAN (d'une voix étouffée):
 
 ROXANE:
 
-  Qu'as-@@@@@@tu@@@@@@ ?
+  Qu'as-@@@tu@@@ ?
 
 
 
@@ -15981,7 +15981,7 @@ ROXANE (attendrie):
 
   Cher Christian !. . .
 
-  (Elle remonte vers les Gascons qui s'empressent repec@@@@@@tu@@@@@@eusement autour
+  (Elle remonte vers les Gascons qui s'empressent repec@@@tu@@@eusement autour
 
   d'elle.)
 
@@ -16053,7 +16053,7 @@ CHRISTIAN:
 
   Si !
 
-  C'est donc bien toi qu'elle aime,--et @@@@@@tu@@@@@@ l'aimes aussi !
+  C'est donc bien toi qu'elle aime,--et @@@tu@@@ l'aimes aussi !
 
 
 
@@ -16131,11 +16131,11 @@ CHRISTIAN:
 
 CYRANO:
 
-  Ah ! @@je@@ suis bien content qu'elle t'ait dit cela !
+  Ah ! @je@ suis bien content qu'elle t'ait dit cela !
 
   Mais va, va, ne crois pas cette chose insensée !
 
-  --Mon Dieu, @@je@@ suis content qu'elle ait eu la pensée
+  --Mon Dieu, @je@ suis content qu'elle ait eu la pensée
 
   De la dire,--mais va, ne la prend pas au mot,
 
@@ -16145,7 +16145,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  C'est ce que @@je@@ veux voir !
+  C'est ce que @je@ veux voir !
 
 
 
@@ -16171,7 +16171,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Je @@@@@@tu@@@@@@erais ton bonheur parce que @@je@@ suis beau ?
+  Je @@@tu@@@erais ton bonheur parce que @je@ suis beau ?
 
   C'est trop injuste !
 
@@ -16179,11 +16179,11 @@ CHRISTIAN:
 
 CYRANO:
 
-  Et moi, @@je@@ mettrais au tombeau
+  Et moi, @je@ mettrais au tombeau
 
   Le tien parce que, grâce au hasard qui fait naître,
 
-  J'ai le don d'exprimer. . .ce que @@@@@@tu@@@@@@ sens peut-être ?
+  J'ai le don d'exprimer. . .ce que @@@tu@@@ sens peut-être ?
 
 
 
@@ -16227,11 +16227,11 @@ CYRANO:
 
 CHRISTIAN:
 
-  Oui, @@je@@ veux être aimé moi-même, ou pas du tout !
+  Oui, @je@ veux être aimé moi-même, ou pas du tout !
 
   --Je vais voir ce qu'on fait, tiens ! Je vais jusqu'au bout
 
-  Du poste; @@je@@ reviens: parle, et qu'elle préfère
+  Du poste; @je@ reviens: parle, et qu'elle préfère
 
   L'un de nous deux !
 
@@ -16245,7 +16245,7 @@ CYRANO:
 
 CHRISTIAN:
 
-  Mais. . .@@je@@ l'espère !
+  Mais. . .@je@ l'espère !
 
   (Il appelle):
 
@@ -16325,7 +16325,7 @@ CYRANO (@lui@ prenant la main):
 
 ROXANE:
 
-  Oui, oui, @@je@@ l'aimerais même. . .
+  Oui, oui, @je@ l'aimerais même. . .
 
   (Elle hésite une seconde.)
 
@@ -16453,7 +16453,7 @@ ROXANE:
 
 
 
-CYRANO (à @lui@-même, avec s@@@@@@tu@@@@@@peur):
+CYRANO (à @lui@-même, avec s@@@tu@@@peur):
 
   C'est fini.
 
@@ -16471,7 +16471,7 @@ ROXANE:
 
 CYRANO:
 
-  C'est fini, jamais plus @@je@@ ne pourrai le dire !
+  C'est fini, jamais plus @je@ ne pourrai le dire !
 
 
 
@@ -16513,7 +16513,7 @@ CYRANO:
 
   Ce que j'allais
 
-  Vous dire ?. . .rien, oh ! rien, @@je@@ le jure, madame !
+  Vous dire ?. . .rien, oh ! rien, @je@ le jure, madame !
 
   (Solennellement):
 
@@ -16555,7 +16555,7 @@ LE BRET (à Cyrano):
 
   Le premier coup de feu le l'ennemi !
 
-  (Roxane se @@je@@tte sur le corps de Christian. Nouveaux coups de feu.
+  (Roxane se @je@tte sur le corps de Christian. Nouveaux coups de feu.
 
   Cliquetis. Rumeurs. Tambours.)
 
@@ -16755,7 +16755,7 @@ CYRANO (fermement):
 
 
 
-ROXANE (se @@je@@tant sur le corps de Christian):
+ROXANE (se @je@tant sur le corps de Christian):
 
   Il est mort !
 
@@ -16763,7 +16763,7 @@ ROXANE (se @@je@@tant sur le corps de Christian):
 
 CYRANO (à part, tirant l'épée):
 
-  Et @@je@@ n'ai qu'à mourir aujourd'hui,
+  Et @je@ n'ai qu'à mourir aujourd'hui,
 
   Puisque, sans le savoir, elle me pleure en @lui@ !
 
@@ -16883,7 +16883,7 @@ CYRANO:
 
 CARBON:
 
-  Nous plions ! J'ai reçu deux coups de per@@@@@@tu@@@@@@isane !
+  Nous plions ! J'ai reçu deux coups de per@@@tu@@@isane !
 
 
 
@@ -16953,7 +16953,7 @@ CRI (dans les rangs ennemis):
 
 UN OFFICIER ESPAGNOL (se découvrant):
 
-  Quels sont ces gens qui se font tous @@@@@@tu@@@@@@er ?
+  Quels sont ces gens qui se font tous @@@tu@@@er ?
 
 
 
@@ -17087,7 +17087,7 @@ SŒUR CLAIRE:
 
   Mais sœur Marthe a repris un pruneau de la tarte,
 
-  Ce matin: @@je@@ l'ai vu.
+  Ce matin: @je@ l'ai vu.
 
   MÈRE MARGUERITE (à sœur Marthe):
 
@@ -17267,7 +17267,7 @@ MÈRE MARGUERITE:
 
   Non, il se fâcherait.
 
-  (Dans une allée du fond, on voit apparaître Roxane, vê@@@@@@tu@@@@@@e de noir,
+  (Dans une allée du fond, on voit apparaître Roxane, vê@@@tu@@@e de noir,
 
   avec la coiffe des veuves et de long voiles; de Guiche, magnifique et
 
@@ -17289,7 +17289,7 @@ SŒUR MARTHE (bas à sœur Claire):
 
 SŒUR CLAIRE (regardant):
 
-  Oui, @@je@@ crois.
+  Oui, @je@ crois.
 
 
 
@@ -17365,7 +17365,7 @@ LE DUC (après un temps):
 
 ROXANE (simplement, regardant la croix du couvent):
 
-  Puisque @@je@@ suis ici.
+  Puisque @je@ suis ici.
 
   (Nouveau silence.)
 
@@ -17427,11 +17427,11 @@ ROXANE:
 
   Il vient; c'est régulier; sous cet arbre où vous êtes
 
-  On place son fauteuil, s'il fait beau; @@je@@ l'attends
+  On place son fauteuil, s'il fait beau; @je@ l'attends
 
   En brodant; l'heure sonne; au dernier coup, j'entends
 
-  --Car @@je@@ ne tourne plus même le front !--sa canne
+  --Car @je@ ne tourne plus même le front !--sa canne
 
   Descendre le perron; il s'assied; il ricane
 
@@ -17495,15 +17495,15 @@ LE DUC (hochant la tête):
 
 LE BRET:
 
-  Ce que @@je@@ crains, ce n'est pas les attaques, c'est
+  Ce que @je@ crains, ce n'est pas les attaques, c'est
 
-  La soli@@@@@@tu@@@@@@de, la famine, c'est Décembre
+  La soli@@@tu@@@de, la famine, c'est Décembre
 
   Entrant à pas de loup dans son obscure chambre:
 
-  Voilà les spadassins qui plutôt le @@@@@@tu@@@@@@eront !
+  Voilà les spadassins qui plutôt le @@@tu@@@eront !
 
-  --Il serre chaque jour, d'un cran, son cein@@@@@@tu@@@@@@ron.
+  --Il serre chaque jour, d'un cran, son cein@@@tu@@@ron.
 
   Son pauvre nez a pris des tons de vieil ivoire.
 
@@ -17543,7 +17543,7 @@ LE DUC (hautainement):
 
   Je sais, oui: j'ai tout; il n'a rien. . .
 
-  Mais @@je@@ @lui@ serrerais bien volontiers la main.
+  Mais @je@ @lui@ serrerais bien volontiers la main.
 
   (Saluant Roxane):
 
@@ -17561,7 +17561,7 @@ ROXANE:
 
 LE DUC (s'arrêtant, tandis qu'elle monte):
 
-  Oui, parfois, @@je@@ l'envie.
+  Oui, parfois, @je@ l'envie.
 
   --Voyez-vous, lorsqu'on a trop réussi sa vie,
 
@@ -17607,7 +17607,7 @@ LE DUC:
 
   Attaquer votre ami; mais beaucoup l'ont en haine;
 
-  Et quelqu'un me disait, hier, au @@je@@u, chez la Reine:
+  Et quelqu'un me disait, hier, au @je@u, chez la Reine:
 
   "Ce Cyrano pourrait mourir d'un accident."
 
@@ -17663,7 +17663,7 @@ ROXANE:
 
 LE BRET:
 
-  É@@@@@@tu@@@@@@viste. . .
+  É@@@tu@@@viste. . .
 
 
 
@@ -17747,11 +17747,11 @@ RAGUENEAU:
 
   --J'allais voir votre ami tantôt. J'étais encore
 
-  A vingt pas de chez @lui@. . .quand @@je@@ le vois de loin,
+  A vingt pas de chez @lui@. . .quand @je@ le vois de loin,
 
   Qui sort. Je veux le joindre. Il va tourner le coin
 
-  De la rue. . .et @@je@@ cours. . .lorsque d'une fenêtre
+  De la rue. . .et @je@ cours. . .lorsque d'une fenêtre
 
   Sous laquelle il passait--est-ce un hasard ?. . .peut-être !--
 
@@ -17767,7 +17767,7 @@ LE BRET:
 
 RAGUENEAU:
 
-  J'arrive et @@je@@ le vois. . .
+  J'arrive et @je@ le vois. . .
 
 
 
@@ -17793,7 +17793,7 @@ LE BRET:
 
 RAGUENEAU:
 
-  Non ! mais. . .Dieu ! @@je@@ l'ai porté chez @lui@.
+  Non ! mais. . .Dieu ! @je@ l'ai porté chez @lui@.
 
   Dans sa chambre. . .Ah ! sa chambre ! il faut voir ce réduit !
 
@@ -17835,7 +17835,7 @@ RAGUENEAU:
 
   Il a
 
-  Parlé,--@@je@@ ne sais plus,--de fièvre, de méninges !. . .
+  Parlé,--@je@ ne sais plus,--de fièvre, de méninges !. . .
 
   Ah ! si vous le voyiez--la tête dans des linges !. . .
 
@@ -17921,7 +17921,7 @@ ROXANE:
 
   Serait-il en retard pour la première fois ?
 
-  La sœur tourière doit--mon dé ?. . .là, @@je@@ le vois !--
+  La sœur tourière doit--mon dé ?. . .là, @je@ le vois !--
 
   L'exhorter à la pénitence.
 
@@ -17961,7 +17961,7 @@ Roxane, Cyrano et, un moment, sœur Marthe.
 
 ROXANE (sans se retourner):
 
-  Qu'est-ce que @@je@@ disais ?. . .
+  Qu'est-ce que @je@ disais ?. . .
 
   (Et elle brode. Cyrano, très pâle, le feutre enfoncé sur les yeux,
 
@@ -17989,7 +17989,7 @@ CYRANO (qui est parvenu au fauteuil et s'est assis, d'une voix gaie,
 
   Oui, c'est fou !
 
-  J'enrage. Je fus mis en retard, ver@@@@@@tu@@@@@@chou !. . .
+  J'enrage. Je fus mis en retard, ver@@@tu@@@chou !. . .
 
 
 
@@ -18001,7 +18001,7 @@ ROXANE:
 
 CYRANO:
 
-  Par une visite assez inoppor@@@@@@tu@@@@@@ne.
+  Par une visite assez inoppor@@@tu@@@ne.
 
 
 
@@ -18031,7 +18031,7 @@ CYRANO:
 
   Excusez-moi, mais c'est aujourd'hui samedi,
 
-  Jour où @@je@@ dois me rendre en certaine demeure;
+  Jour où @je@ dois me rendre en certaine demeure;
 
   Rien ne m'y fait manquer: repassez dans une heure !
 
@@ -18047,7 +18047,7 @@ ROXANE (légèrement):
 
 CYRANO (avec douceur):
 
-  Peut-être un peu plus tôt faudra-t-il que @@je@@ parte.
+  Peut-être un peu plus tôt faudra-t-il que @je@ parte.
 
   (Il ferme les yeux et se tait un instant. Sœur Marthe traverse le
 
@@ -18111,7 +18111,7 @@ SŒUR MARTHE:
 
   Au réfectoire
 
-  Vous viendrez tout à l'heure, et @@je@@ vous ferai boire
+  Vous viendrez tout à l'heure, et @je@ vous ferai boire
 
   Un grand bol de bouillon. . .Vous viendrez ?
 
@@ -18151,7 +18151,7 @@ CYRANO:
 
   Sabre de bois ! Je veux vous étonner aussi !
 
-  Tenez, @@je@@ vous permets. . .
+  Tenez, @je@ vous permets. . .
 
   (Il a l'air de chercher une bonne taquinerie, et de la trouver):
 
@@ -18169,7 +18169,7 @@ ROXANE:
 
 CYRANO (riant):
 
-  Sœur Marthe est dans la s@@@@@@tu@@@@@@péfaction !
+  Sœur Marthe est dans la s@@@tu@@@péfaction !
 
 
 
@@ -18183,7 +18183,7 @@ SŒUR MARTHE (doucement):
 
 CYRANO (revenant à Roxane, penchée sur son métier):
 
-  Du diable si @@je@@ peux jamais, tapisserie,
+  Du diable si @je@ peux jamais, tapisserie,
 
   Voir ta fin !
 
@@ -18215,7 +18215,7 @@ CYRANO:
 
   Comme elles tombent bien !
 
-  Dans ce tra@@je@@t si court de la branche à la terre,
+  Dans ce tra@je@t si court de la branche à la terre,
 
   Comme elles savent mettre une beauté dernière,
 
@@ -18267,7 +18267,7 @@ CYRANO (de plus en plus pâle, et luttant contre la douleur):
 
   Le Roi fut pris de fièvre; à deux coups de lancette
 
-  Son mal fut condamné pour lèse-ma@@je@@sté,
+  Son mal fut condamné pour lèse-ma@je@sté,
 
   Et cet auguste pouls n'a plus fébricité !
 
@@ -18275,7 +18275,7 @@ CYRANO (de plus en plus pâle, et luttant contre la douleur):
 
   Sept cent soixante-trois flambeaux de cire blanche;
 
-  Nos troupes ont bat@@@@@@tu@@@@@@, dit-on, Jean l'Autrichien;
+  Nos troupes ont bat@@@tu@@@, dit-on, Jean l'Autrichien;
 
   On a pendu quatre sorciers; le petit chien
 
@@ -18337,7 +18337,7 @@ CYRANO (rouvrant les yeux, d'une voix vague):
 
   sa tête et reculant avec effroi dans son fauteuil):
 
-  Non ! non ! @@je@@ vous assure,
+  Non ! non ! @je@ vous assure,
 
   Ce n'est rien ! Laissez-moi !
 
@@ -18431,7 +18431,7 @@ ROXANE:
 
 CYRANO (lisant):
 
-  Roxane, adieu, @@je@@ vais mourir !. . .
+  Roxane, adieu, @je@ vais mourir !. . .
 
 
 
@@ -18443,11 +18443,11 @@ ROXANE (s'arrêtant, étonnée):
 
 CYRANO (lisant):
 
-  C'est pour ce soir, @@je@@ crois, ma bien-aimée !
+  C'est pour ce soir, @je@ crois, ma bien-aimée !
 
   J'ai l'âme lourde encor d'amour inexprimée,
 
-  Et @@je@@ meurs ! jamais plus, jamais mes yeux grisés,
+  Et @je@ meurs ! jamais plus, jamais mes yeux grisés,
 
   Mes regards dont c'était. . .
 
@@ -18469,7 +18469,7 @@ CYRANO (continuant):
 
   J'en revois un petit qui vous est familier
 
-  Pour toucher votre front, et @@je@@ voudrais crier. . .
+  Pour toucher votre front, et @je@ voudrais crier. . .
 
 
 
@@ -18483,7 +18483,7 @@ ROXANE (troublée):
 
 CYRANO:
 
-  Et @@je@@ crie:
+  Et @je@ crie:
 
   Adieu !. . .
 
@@ -18521,7 +18521,7 @@ ROXANE:
 
   (Elle tressaille):
 
-  Mais. . .que @@je@@ n'entends pas pour la première fois !
+  Mais. . .que @je@ n'entends pas pour la première fois !
 
   (Elle s'approche tout doucement, sans qu'il s'en aperçoive, passe
 
@@ -18535,7 +18535,7 @@ CYRANO:
 
   Mon cœur ne vous quitta jamais une seconde,
 
-  Et @@je@@ suis et serai jusque dans l'autre monde
+  Et @je@ suis et serai jusque dans l'autre monde
 
   Ce@lui@ qui vous aima sans mesure, ce@lui@. . .
 
@@ -18601,7 +18601,7 @@ CYRANO:
 
 ROXANE:
 
-  J'aperçois toute la généreuse impos@@@@@@tu@@@@@@re:
+  J'aperçois toute la généreuse impos@@@tu@@@re:
 
   Les lettres, c'était vous. . .
 
@@ -18683,7 +18683,7 @@ ROXANE:
 
 CYRANO:
 
-  Non, non, mon cher amour, @@je@@ ne vous aimais pas !
+  Non, non, mon cher amour, @je@ ne vous aimais pas !
 
 
 
@@ -18691,7 +18691,7 @@ ROXANE:
 
   Ah ! que de choses qui sont mortes. . .qui sont nées !
 
-  --Pourquoi vous être @@@@@@tu@@@@@@ pendant quatorze années,
+  --Pourquoi vous être @@@tu@@@ pendant quatorze années,
 
   Puisque sur cette lettre où, @lui@, n'était pour rien,
 
@@ -18751,7 +18751,7 @@ CYRANO (souriant et se redressant):
 
 LE BRET:
 
-  Il s'est @@@@@@tu@@@@@@é, Madame, en se levant !
+  Il s'est @@@tu@@@é, Madame, en se levant !
 
 
 
@@ -18765,7 +18765,7 @@ ROXANE:
 
 CYRANO:
 
-  C'est vrai ! @@je@@ n'avais pas terminé ma gazette:
+  C'est vrai ! @je@ n'avais pas terminé ma gazette:
 
   . . .Et samedi, vingt-six, une heure avant dîné,
 
@@ -18789,9 +18789,9 @@ CYRANO:
 
   Frappé par un héros, tomber la pointe au cœur !". . .
 
-  --Oui, @@je@@ disais cela !. . .Le destin est railleur !. . .
+  --Oui, @je@ disais cela !. . .Le destin est railleur !. . .
 
-  Et voilà que @@je@@ suis @@@@@@tu@@@@@@é dans une embûche,
+  Et voilà que @je@ suis @@@tu@@@é dans une embûche,
 
   Par derrière, par un laquais, d'un coup de bûche !
 
@@ -18811,7 +18811,7 @@ CYRANO:
 
   (Il @lui@ tend la main):
 
-  Qu'est-ce que @@@@@@tu@@@@@@ deviens, maintenant, mon confrère ?
+  Qu'est-ce que @@@tu@@@ deviens, maintenant, mon confrère ?
 
 
 
@@ -18829,9 +18829,9 @@ CYRANO:
 
 RAGUENEAU:
 
-  Mais @@je@@ veux le quitter, dès demain:
+  Mais @je@ veux le quitter, dès demain:
 
-  Oui, @@je@@ suis indigné !. . .Hier, on jouer Scapin,
+  Oui, @je@ suis indigné !. . .Hier, on jouer Scapin,
 
   Et j'ai vu qu'il vous a pris une scène !
 
@@ -18883,7 +18883,7 @@ CYRANO:
 
   Sous le balcon ? Eh bien ! toute ma vie est là:
 
-  Pendant que @@je@@ restais en bas, dans l'ombre noire,
+  Pendant que @je@ restais en bas, dans l'ombre noire,
 
   D'autres montaient cueillir le baiser de la gloire !
 
@@ -18909,7 +18909,7 @@ CYRANO (la retenant):
 
   Non ! non ! n'allez chercher personne:
 
-  Quand vous reviendriez, @@je@@ ne serais plus là.
+  Quand vous reviendriez, @je@ ne serais plus là.
 
   (Les religieuses sont entrées dans la chapelle, on entend l'orgue):
 
@@ -18931,7 +18931,7 @@ CYRANO:
 
   Il sent sa laideur fondre à ces mots de soleil. . .
 
-  Mais @@@@@@tu@@@@@@ t'apercevrais que @@je@@ reste pareil.
+  Mais @@@tu@@@ t'apercevrais que @je@ reste pareil.
 
 
 
@@ -18971,13 +18971,13 @@ CYRANO (souriant à la lune):
 
 ROXANE:
 
-  Je n'aimais qu'un seul être et @@je@@ le perds deux fois !
+  Je n'aimais qu'un seul être et @je@ le perds deux fois !
 
 
 
 CYRANO:
 
-  Le Bret, @@je@@ vais monter dans la lune opaline,
+  Le Bret, @je@ vais monter dans la lune opaline,
 
   Sans qu'il faille inventer, aujourd'hui, de machine. . .
 
@@ -18991,19 +18991,19 @@ LE BRET:
 
 CYRANO:
 
-  Mais oui, c'est là, @@je@@ vous le dis,
+  Mais oui, c'est là, @je@ vous le dis,
 
   Que l'on va m'envoyer faire mon paradis
 
   Plus d'une âme que j'aime y doit être exilée,
 
-  Et @@je@@ retrouverai Socrate et Galilée !
+  Et @je@ retrouverai Socrate et Galilée !
 
 
 
 LE BRET (se révoltant):
 
-  Non, non ! C'est trop s@@@@@@tu@@@@@@pide à la fin, et c'est trop
+  Non, non ! C'est trop s@@@tu@@@pide à la fin, et c'est trop
 
   Injuste ! Un tel poète ! Un cœur si grand, si haut !
 
@@ -19073,7 +19073,7 @@ CYRANO:
 
   Qui fut tout, et qui ne fut rien,
 
-  . . .Mais @@je@@ m'en vais, pardon, @@je@@ ne peux faire attendre:
+  . . .Mais @je@ m'en vais, pardon, @je@ ne peux faire attendre:
 
   Vous voyez, le rayon de lune vient me prendre !
 
@@ -19083,7 +19083,7 @@ CYRANO:
 
   Je ne veux pas que vous pleuriez moins ce charmant,
 
-  Ce bon, ce beau Christian; mais @@je@@ veux seulement
+  Ce bon, ce beau Christian; mais @je@ veux seulement
 
   Que lorsque le grand froid aura pris mes vertèbres,
 
@@ -19159,7 +19159,7 @@ CYRANO:
 
   --Qu'est-ce que c'est tous ceux-là ?--Vous êtes mille ?
 
-  Ah ! @@je@@ vous reconnais, tous mes vieux ennemis !
+  Ah ! @je@ vous reconnais, tous mes vieux ennemis !
 
   Le Mensonge ?
 
@@ -19171,13 +19171,13 @@ CYRANO:
 
   (Il frappe):
 
-  Que @@je@@ pactise ?
+  Que @je@ pactise ?
 
   Jamais, jamais !--Ah ! te voilà, toi, la Sottise !
 
   --Je sais bien qu'à la fin vous me mettrez à bas;
 
-  N'importe: @@je@@ me bats ! @@je@@ me bats ! @@je@@ me bats !
+  N'importe: @je@ me bats ! @je@ me bats ! @je@ me bats !
 
   (Il fait des moulinets immenses et s'arrête haletant):
 
