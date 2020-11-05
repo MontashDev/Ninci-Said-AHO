@@ -55,7 +55,7 @@ public class AhoCorasick {
         return state.suffix;
     }
 
-    //create the "hidden transition" in the automata
+    //create the "hidden transitions" in the automata
     public int findTransition(int nodeIndex, char car) {
 
         int c = car - 'a';
